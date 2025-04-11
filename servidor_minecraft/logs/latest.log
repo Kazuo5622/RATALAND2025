@@ -3062,3 +3062,22 @@ Missing minecraft:entity_type:
 [11Apr2025 02:18:06.877] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=239, y=-10, z=-81}
 [11Apr2025 02:18:28.980] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: apotheosis:tower_sand
 [11Apr2025 02:18:54.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KATZUO56 was shot by Skeleton
+[11Apr2025 02:24:56.842] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player GPS_MEJOR is 07c1bbbc-cdab-47af-8309-e3040d4ab6a5
+[11Apr2025 02:24:58.268] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GPS_MEJOR[/100.71.249.58:50905] logged in with entity id 2138 at (17.5, 66.0, 80.5)
+[11Apr2025 02:24:58.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GPS_MEJOR joined the game
+[11Apr2025 02:25:09.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <GPS_MEJOR> hiliiiiiiiiiiiiiiiiiiiiiiiiiiiii
+[11Apr2025 02:25:39.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <GPS_MEJOR> HABLAAAAAAAAAAAAAAAA
+[11Apr2025 02:25:43.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KATZUO56> heleeeeeeeeeeeeeeeeeeee
+[11Apr2025 02:25:53.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KATZUO56> al finnnnnnnnnnnnn
+[11Apr2025 02:26:00.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <GPS_MEJOR> BUENAAAAAAAAAAA
+[11Apr2025 02:26:07.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KATZUO56> ahora solo falta los mods
+[11Apr2025 02:26:18.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KATZUO56> como te va
+[11Apr2025 02:26:21.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KATZUO56> nada de lag?
+[11Apr2025 02:26:24.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <GPS_MEJOR> NADA
+[11Apr2025 02:26:39.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KATZUO56 was slain by Zombie
+[11Apr2025 02:26:47.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KATZUO56> ya ta
+[11Apr2025 02:27:41.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KATZUO56 was shot by Pillager
+[11Apr2025 02:27:59.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <GPS_MEJOR> wasa
+[11Apr2025 02:28:05.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GPS_MEJOR was shot by Pillager
+[11Apr2025 02:28:27.419] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KATZUO56 lost connection: Disconnected
+[11Apr2025 02:28:27.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KATZUO56 left the game
