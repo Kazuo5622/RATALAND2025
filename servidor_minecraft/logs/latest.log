@@ -1,0 +1,3064 @@
+[11Apr2025 02:09:42.112] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[11Apr2025 02:09:42.116] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[11Apr2025 02:09:42.206] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[11Apr2025 02:09:42.249] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/RATALAND2025/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[11Apr2025 02:09:42.451] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RATALAND2025/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[11Apr2025 02:09:42.453] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RATALAND2025/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[11Apr2025 02:09:42.454] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RATALAND2025/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[11Apr2025 02:09:42.456] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RATALAND2025/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[11Apr2025 02:09:42.578] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[11Apr2025 02:09:44.074] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[11Apr2025 02:09:49.442] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[11Apr2025 02:09:49.447] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[11Apr2025 02:09:50.063] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[11Apr2025 02:09:50.571] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[11Apr2025 02:09:51.127] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[11Apr2025 02:09:51.207] [main/WARN] [net.minecraftforge.common.ForgeHooks/WP]: The following mods have version differences that were not resolved:
+apotheosis (version 7.4.6 -> MISSING)
+appleskin (version 2.5.1+mc1.20.1 -> MISSING)
+architectury (version 9.2.14 -> MISSING)
+attributeslib (version 1.3.7 -> MISSING)
+bookshelf (version 20.2.13 -> MISSING)
+cloth_config (version 11.1.136 -> MISSING)
+curios (version 5.14.0+1.20.1 -> MISSING)
+enchdesc (version 17.1.19 -> MISSING)
+jade (version 11.12.3+forge -> MISSING)
+jei (version 15.20.0.105 -> MISSING)
+patchouli (version 1.20.1-84.1-FORGE -> MISSING)
+placebo (version 8.6.3 -> MISSING)
+securitycraft (version 1.9.12 -> MISSING)
+Things may not work well.
+[11Apr2025 02:09:51.283] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:block
+	apotheosis:augmenting_table: 1037
+	apotheosis:beeshelf: 1003
+	apotheosis:blazing_hellshelf: 1004
+	apotheosis:boss_spawner: 1032
+	apotheosis:crystal_seashelf: 1005
+	apotheosis:deepshelf: 1006
+	apotheosis:dormant_deepshelf: 1007
+	apotheosis:draconic_endshelf: 1008
+	apotheosis:echoing_deepshelf: 1009
+	apotheosis:echoing_sculkshelf: 1010
+	apotheosis:ender_library: 1011
+	apotheosis:endshelf: 1012
+	apotheosis:filtering_shelf: 1030
+	apotheosis:gem_cutting_table: 1036
+	apotheosis:glowing_hellshelf: 1013
+	apotheosis:heart_seashelf: 1014
+	apotheosis:hellshelf: 1015
+	apotheosis:infused_hellshelf: 1016
+	apotheosis:infused_seashelf: 1017
+	apotheosis:library: 1018
+	apotheosis:melonshelf: 1019
+	apotheosis:pearl_endshelf: 1020
+	apotheosis:rectifier: 1021
+	apotheosis:rectifier_t2: 1022
+	apotheosis:rectifier_t3: 1023
+	apotheosis:reforging_table: 1034
+	apotheosis:salvaging_table: 1035
+	apotheosis:seashelf: 1024
+	apotheosis:sightshelf: 1025
+	apotheosis:sightshelf_t2: 1026
+	apotheosis:simple_reforging_table: 1033
+	apotheosis:soul_touched_deepshelf: 1027
+	apotheosis:soul_touched_sculkshelf: 1028
+	apotheosis:stoneshelf: 1029
+	apotheosis:treasure_shelf: 1031
+	securitycraft:alarm: 1038
+	securitycraft:ancient_debris_mine: 1131
+	securitycraft:blast_furnace_mine: 1135
+	securitycraft:block_change_detector: 1039
+	securitycraft:block_pocket_manager: 1040
+	securitycraft:block_pocket_wall: 1041
+	securitycraft:bouncing_betty: 1042
+	securitycraft:cage_trap: 1043
+	securitycraft:chiseled_crystal_quartz: 1646
+	securitycraft:claymore: 1044
+	securitycraft:coal_mine: 1113
+	securitycraft:cobbled_deepslate_mine: 1106
+	securitycraft:cobblestone_mine: 1108
+	securitycraft:copper_mine: 1119
+	securitycraft:crystal_quartz: 1647
+	securitycraft:crystal_quartz_bricks: 1648
+	securitycraft:crystal_quartz_pillar: 1649
+	securitycraft:crystal_quartz_slab: 1644
+	securitycraft:crystal_quartz_stairs: 1650
+	securitycraft:deepslate_coal_mine: 1114
+	securitycraft:deepslate_copper_mine: 1120
+	securitycraft:deepslate_diamond_mine: 1128
+	securitycraft:deepslate_emerald_mine: 1124
+	securitycraft:deepslate_gold_mine: 1118
+	securitycraft:deepslate_iron_mine: 1116
+	securitycraft:deepslate_lapis_mine: 1126
+	securitycraft:deepslate_mine: 1105
+	securitycraft:deepslate_redstone_mine: 1122
+	securitycraft:diamond_mine: 1127
+	securitycraft:dirt_mine: 1107
+	securitycraft:display_case: 1045
+	securitycraft:electrified_iron_fence: 1052
+	securitycraft:emerald_mine: 1123
+	securitycraft:end_stone_mine: 1112
+	securitycraft:fake_lava_block: 1103
+	securitycraft:fake_water_block: 1102
+	securitycraft:floor_trap: 1046
+	securitycraft:furnace_mine: 1133
+	securitycraft:gilded_blackstone_mine: 1132
+	securitycraft:glow_display_case: 1048
+	securitycraft:gold_mine: 1117
+	securitycraft:gravel_mine: 1110
+	securitycraft:horizontal_reinforced_iron_bars: 1662
+	securitycraft:ims: 1049
+	securitycraft:inventory_scanner: 1050
+	securitycraft:inventory_scanner_field: 1051
+	securitycraft:iron_door_reinforced: 1071
+	securitycraft:iron_mine: 1115
+	securitycraft:key_panel: 1053
+	securitycraft:keycard_lock: 1054
+	securitycraft:keycard_reader: 1055
+	securitycraft:keypad: 1056
+	securitycraft:keypad_barrel: 1057
+	securitycraft:keypad_blast_furnace: 1063
+	securitycraft:keypad_chest: 1058
+	securitycraft:keypad_door: 1059
+	securitycraft:keypad_frame: 1047
+	securitycraft:keypad_furnace: 1061
+	securitycraft:keypad_smoker: 1062
+	securitycraft:keypad_trapdoor: 1060
+	securitycraft:lapis_mine: 1125
+	securitycraft:laser: 1065
+	securitycraft:laser_block: 1064
+	securitycraft:mine: 1101
+	securitycraft:motion_activated_light: 1066
+	securitycraft:nether_gold_mine: 1129
+	securitycraft:netherrack_mine: 1111
+	securitycraft:panic_button: 1067
+	securitycraft:portable_radar: 1068
+	securitycraft:projector: 1069
+	securitycraft:protecto: 1070
+	securitycraft:quartz_mine: 1130
+	securitycraft:redstone_mine: 1121
+	securitycraft:reinforced_acacia_button: 1554
+	securitycraft:reinforced_acacia_fence: 1625
+	securitycraft:reinforced_acacia_fence_gate: 1637
+	securitycraft:reinforced_acacia_log: 1201
+	securitycraft:reinforced_acacia_planks: 1164
+	securitycraft:reinforced_acacia_pressure_plate: 1565
+	securitycraft:reinforced_acacia_slab: 1259
+	securitycraft:reinforced_acacia_stairs: 1354
+	securitycraft:reinforced_acacia_wood: 1228
+	securitycraft:reinforced_amethyst_block: 1176
+	securitycraft:reinforced_andesite: 1143
+	securitycraft:reinforced_andesite_slab: 1433
+	securitycraft:reinforced_andesite_stairs: 1416
+	securitycraft:reinforced_andesite_wall: 1471
+	securitycraft:reinforced_bamboo_block: 1575
+	securitycraft:reinforced_bamboo_button: 1584
+	securitycraft:reinforced_bamboo_fence: 1629
+	securitycraft:reinforced_bamboo_fence_gate: 1641
+	securitycraft:reinforced_bamboo_mosaic: 1578
+	securitycraft:reinforced_bamboo_mosaic_slab: 1582
+	securitycraft:reinforced_bamboo_mosaic_stairs: 1580
+	securitycraft:reinforced_bamboo_planks: 1577
+	securitycraft:reinforced_bamboo_pressure_plate: 1583
+	securitycraft:reinforced_bamboo_slab: 1581
+	securitycraft:reinforced_bamboo_stairs: 1579
+	securitycraft:reinforced_basalt: 1299
+	securitycraft:reinforced_birch_button: 1552
+	securitycraft:reinforced_birch_fence: 1623
+	securitycraft:reinforced_birch_fence_gate: 1635
+	securitycraft:reinforced_birch_log: 1199
+	securitycraft:reinforced_birch_planks: 1162
+	securitycraft:reinforced_birch_pressure_plate: 1563
+	securitycraft:reinforced_birch_slab: 1257
+	securitycraft:reinforced_birch_stairs: 1327
+	securitycraft:reinforced_birch_wood: 1226
+	securitycraft:reinforced_black_carpet: 1498
+	securitycraft:reinforced_black_concrete: 1404
+	securitycraft:reinforced_black_glazed_terracotta: 1530
+	securitycraft:reinforced_black_stained_glass: 1372
+	securitycraft:reinforced_black_stained_glass_pane: 1514
+	securitycraft:reinforced_black_terracotta: 1351
+	securitycraft:reinforced_black_wool: 1254
+	securitycraft:reinforced_blackstone: 1442
+	securitycraft:reinforced_blackstone_slab: 1443
+	securitycraft:reinforced_blackstone_stairs: 1444
+	securitycraft:reinforced_blackstone_wall: 1476
+	securitycraft:reinforced_blue_carpet: 1494
+	securitycraft:reinforced_blue_concrete: 1400
+	securitycraft:reinforced_blue_glazed_terracotta: 1526
+	securitycraft:reinforced_blue_ice: 1405
+	securitycraft:reinforced_blue_stained_glass: 1368
+	securitycraft:reinforced_blue_stained_glass_pane: 1510
+	securitycraft:reinforced_blue_terracotta: 1347
+	securitycraft:reinforced_blue_wool: 1250
+	securitycraft:reinforced_bone_block: 1388
+	securitycraft:reinforced_bookshelf: 1285
+	securitycraft:reinforced_brick_slab: 1269
+	securitycraft:reinforced_brick_stairs: 1314
+	securitycraft:reinforced_brick_wall: 1463
+	securitycraft:reinforced_bricks: 1284
+	securitycraft:reinforced_brown_carpet: 1495
+	securitycraft:reinforced_brown_concrete: 1401
+	securitycraft:reinforced_brown_glazed_terracotta: 1527
+	securitycraft:reinforced_brown_stained_glass: 1369
+	securitycraft:reinforced_brown_stained_glass_pane: 1511
+	securitycraft:reinforced_brown_terracotta: 1348
+	securitycraft:reinforced_brown_wool: 1251
+	securitycraft:reinforced_calcite: 1148
+	securitycraft:reinforced_cauldron: 1571
+	securitycraft:reinforced_chain: 1459
+	securitycraft:reinforced_cherry_button: 1620
+	securitycraft:reinforced_cherry_fence: 1628
+	securitycraft:reinforced_cherry_fence_gate: 1640
+	securitycraft:reinforced_cherry_log: 1612
+	securitycraft:reinforced_cherry_planks: 1616
+	securitycraft:reinforced_cherry_pressure_plate: 1619
+	securitycraft:reinforced_cherry_slab: 1618
+	securitycraft:reinforced_cherry_stairs: 1617
+	securitycraft:reinforced_cherry_wood: 1613
+	securitycraft:reinforced_chiseled_bookshelf: 1611
+	securitycraft:reinforced_chiseled_crystal_quartz_block: 1655
+	securitycraft:reinforced_chiseled_deepslate: 1313
+	securitycraft:reinforced_chiseled_nether_bricks: 1320
+	securitycraft:reinforced_chiseled_polished_blackstone: 1448
+	securitycraft:reinforced_chiseled_quartz_block: 1331
+	securitycraft:reinforced_chiseled_red_sandstone: 1381
+	securitycraft:reinforced_chiseled_sandstone: 1237
+	securitycraft:reinforced_chiseled_stone_bricks: 1306
+	securitycraft:reinforced_clay: 1295
+	securitycraft:reinforced_coal_block: 1172
+	securitycraft:reinforced_coarse_dirt: 1153
+	securitycraft:reinforced_cobbled_deepslate: 1146
+	securitycraft:reinforced_cobbled_deepslate_slab: 1437
+	securitycraft:reinforced_cobbled_deepslate_stairs: 1420
+	securitycraft:reinforced_cobbled_deepslate_wall: 1479
+	securitycraft:reinforced_cobblestone: 1159
+	securitycraft:reinforced_cobblestone_slab: 1268
+	securitycraft:reinforced_cobblestone_stairs: 1292
+	securitycraft:reinforced_cobblestone_wall: 1461
+	securitycraft:reinforced_cobweb: 1453
+	securitycraft:reinforced_copper_block: 1178
+	securitycraft:reinforced_cracked_deepslate_bricks: 1310
+	securitycraft:reinforced_cracked_deepslate_tiles: 1312
+	securitycraft:reinforced_cracked_nether_bricks: 1319
+	securitycraft:reinforced_cracked_polished_blackstone_bricks: 1452
+	securitycraft:reinforced_cracked_stone_bricks: 1305
+	securitycraft:reinforced_crimson_button: 1557
+	securitycraft:reinforced_crimson_fence: 1630
+	securitycraft:reinforced_crimson_fence_gate: 1642
+	securitycraft:reinforced_crimson_hyphae: 1231
+	securitycraft:reinforced_crimson_nylium: 1156
+	securitycraft:reinforced_crimson_planks: 1167
+	securitycraft:reinforced_crimson_pressure_plate: 1568
+	securitycraft:reinforced_crimson_slab: 1262
+	securitycraft:reinforced_crimson_stairs: 1329
+	securitycraft:reinforced_crimson_stem: 1204
+	securitycraft:reinforced_crying_obsidian: 1441
+	securitycraft:reinforced_crystal_quartz_block: 1656
+	securitycraft:reinforced_crystal_quartz_bricks: 1657
+	securitycraft:reinforced_crystal_quartz_pillar: 1658
+	securitycraft:reinforced_crystal_quartz_slab: 1653
+	securitycraft:reinforced_crystal_quartz_stairs: 1659
+	securitycraft:reinforced_cut_copper: 1185
+	securitycraft:reinforced_cut_copper_slab: 1193
+	securitycraft:reinforced_cut_copper_stairs: 1189
+	securitycraft:reinforced_cut_red_sandstone: 1382
+	securitycraft:reinforced_cut_red_sandstone_slab: 1275
+	securitycraft:reinforced_cut_sandstone: 1238
+	securitycraft:reinforced_cut_sandstone_slab: 1267
+	securitycraft:reinforced_cyan_carpet: 1492
+	securitycraft:reinforced_cyan_concrete: 1398
+	securitycraft:reinforced_cyan_glazed_terracotta: 1524
+	securitycraft:reinforced_cyan_stained_glass: 1366
+	securitycraft:reinforced_cyan_stained_glass_pane: 1508
+	securitycraft:reinforced_cyan_terracotta: 1345
+	securitycraft:reinforced_cyan_wool: 1248
+	securitycraft:reinforced_dark_oak_button: 1555
+	securitycraft:reinforced_dark_oak_fence: 1626
+	securitycraft:reinforced_dark_oak_fence_gate: 1638
+	securitycraft:reinforced_dark_oak_log: 1202
+	securitycraft:reinforced_dark_oak_planks: 1165
+	securitycraft:reinforced_dark_oak_pressure_plate: 1566
+	securitycraft:reinforced_dark_oak_slab: 1260
+	securitycraft:reinforced_dark_oak_stairs: 1355
+	securitycraft:reinforced_dark_oak_wood: 1229
+	securitycraft:reinforced_dark_prismarine: 1375
+	securitycraft:reinforced_dark_prismarine_slab: 1279
+	securitycraft:reinforced_dark_prismarine_stairs: 1378
+	securitycraft:reinforced_deepslate: 1145
+	securitycraft:reinforced_deepslate_brick_slab: 1439
+	securitycraft:reinforced_deepslate_brick_stairs: 1422
+	securitycraft:reinforced_deepslate_brick_wall: 1481
+	securitycraft:reinforced_deepslate_bricks: 1309
+	securitycraft:reinforced_deepslate_tile_slab: 1440
+	securitycraft:reinforced_deepslate_tile_stairs: 1423
+	securitycraft:reinforced_deepslate_tile_wall: 1482
+	securitycraft:reinforced_deepslate_tiles: 1311
+	securitycraft:reinforced_diamond_block: 1180
+	securitycraft:reinforced_diorite: 1141
+	securitycraft:reinforced_diorite_slab: 1436
+	securitycraft:reinforced_diorite_stairs: 1419
+	securitycraft:reinforced_diorite_wall: 1475
+	securitycraft:reinforced_dirt: 1152
+	securitycraft:reinforced_dispenser: 1543
+	securitycraft:reinforced_dripstone_block: 1150
+	securitycraft:reinforced_dropper: 1544
+	securitycraft:reinforced_emerald_block: 1325
+	securitycraft:reinforced_end_rod: 1456
+	securitycraft:reinforced_end_stone: 1322
+	securitycraft:reinforced_end_stone_brick_slab: 1429
+	securitycraft:reinforced_end_stone_brick_stairs: 1411
+	securitycraft:reinforced_end_stone_brick_wall: 1474
+	securitycraft:reinforced_end_stone_bricks: 1323
+	securitycraft:reinforced_exposed_copper: 1182
+	securitycraft:reinforced_exposed_cut_copper: 1186
+	securitycraft:reinforced_exposed_cut_copper_slab: 1194
+	securitycraft:reinforced_exposed_cut_copper_stairs: 1190
+	securitycraft:reinforced_fence_gate: 1072
+	securitycraft:reinforced_glass: 1233
+	securitycraft:reinforced_glass_pane: 1460
+	securitycraft:reinforced_glowstone: 1302
+	securitycraft:reinforced_gold_block: 1179
+	securitycraft:reinforced_granite: 1139
+	securitycraft:reinforced_granite_slab: 1432
+	securitycraft:reinforced_granite_stairs: 1415
+	securitycraft:reinforced_granite_wall: 1467
+	securitycraft:reinforced_grass_block: 1151
+	securitycraft:reinforced_grass_path: 1663
+	securitycraft:reinforced_gravel: 1171
+	securitycraft:reinforced_gray_carpet: 1490
+	securitycraft:reinforced_gray_concrete: 1396
+	securitycraft:reinforced_gray_glazed_terracotta: 1522
+	securitycraft:reinforced_gray_stained_glass: 1364
+	securitycraft:reinforced_gray_stained_glass_pane: 1506
+	securitycraft:reinforced_gray_terracotta: 1343
+	securitycraft:reinforced_gray_wool: 1246
+	securitycraft:reinforced_green_carpet: 1496
+	securitycraft:reinforced_green_concrete: 1402
+	securitycraft:reinforced_green_glazed_terracotta: 1528
+	securitycraft:reinforced_green_stained_glass: 1370
+	securitycraft:reinforced_green_stained_glass_pane: 1512
+	securitycraft:reinforced_green_terracotta: 1349
+	securitycraft:reinforced_green_wool: 1252
+	securitycraft:reinforced_hardened_clay: 1352
+	securitycraft:reinforced_hopper: 1542
+	securitycraft:reinforced_ice: 1293
+	securitycraft:reinforced_iron_bars: 1457
+	securitycraft:reinforced_iron_block: 1177
+	securitycraft:reinforced_iron_trapdoor: 1570
+	securitycraft:reinforced_jungle_button: 1553
+	securitycraft:reinforced_jungle_fence: 1624
+	securitycraft:reinforced_jungle_fence_gate: 1636
+	securitycraft:reinforced_jungle_log: 1200
+	securitycraft:reinforced_jungle_planks: 1163
+	securitycraft:reinforced_jungle_pressure_plate: 1564
+	securitycraft:reinforced_jungle_slab: 1258
+	securitycraft:reinforced_jungle_stairs: 1328
+	securitycraft:reinforced_jungle_wood: 1227
+	securitycraft:reinforced_ladder: 1458
+	securitycraft:reinforced_lantern: 1532
+	securitycraft:reinforced_lapis_block: 1235
+	securitycraft:reinforced_lava_cauldron: 1573
+	securitycraft:reinforced_lectern: 1545
+	securitycraft:reinforced_lever: 1546
+	securitycraft:reinforced_light_blue_carpet: 1486
+	securitycraft:reinforced_light_blue_concrete: 1392
+	securitycraft:reinforced_light_blue_glazed_terracotta: 1518
+	securitycraft:reinforced_light_blue_stained_glass: 1360
+	securitycraft:reinforced_light_blue_stained_glass_pane: 1502
+	securitycraft:reinforced_light_blue_terracotta: 1339
+	securitycraft:reinforced_light_blue_wool: 1242
+	securitycraft:reinforced_light_gray_carpet: 1491
+	securitycraft:reinforced_light_gray_concrete: 1397
+	securitycraft:reinforced_light_gray_glazed_terracotta: 1523
+	securitycraft:reinforced_light_gray_stained_glass: 1365
+	securitycraft:reinforced_light_gray_stained_glass_pane: 1507
+	securitycraft:reinforced_light_gray_terracotta: 1344
+	securitycraft:reinforced_light_gray_wool: 1247
+	securitycraft:reinforced_lime_carpet: 1488
+	securitycraft:reinforced_lime_concrete: 1394
+	securitycraft:reinforced_lime_glazed_terracotta: 1520
+	securitycraft:reinforced_lime_stained_glass: 1362
+	securitycraft:reinforced_lime_stained_glass_pane: 1504
+	securitycraft:reinforced_lime_terracotta: 1341
+	securitycraft:reinforced_lime_wool: 1244
+	securitycraft:reinforced_magenta_carpet: 1485
+	securitycraft:reinforced_magenta_concrete: 1391
+	securitycraft:reinforced_magenta_glazed_terracotta: 1517
+	securitycraft:reinforced_magenta_stained_glass: 1359
+	securitycraft:reinforced_magenta_stained_glass_pane: 1501
+	securitycraft:reinforced_magenta_terracotta: 1338
+	securitycraft:reinforced_magenta_wool: 1241
+	securitycraft:reinforced_magma_block: 1384
+	securitycraft:reinforced_mangrove_button: 1556
+	securitycraft:reinforced_mangrove_fence: 1627
+	securitycraft:reinforced_mangrove_fence_gate: 1639
+	securitycraft:reinforced_mangrove_log: 1203
+	securitycraft:reinforced_mangrove_planks: 1166
+	securitycraft:reinforced_mangrove_pressure_plate: 1567
+	securitycraft:reinforced_mangrove_slab: 1261
+	securitycraft:reinforced_mangrove_stairs: 1356
+	securitycraft:reinforced_mangrove_wood: 1230
+	securitycraft:reinforced_moss_block: 1455
+	securitycraft:reinforced_moss_carpet: 1454
+	securitycraft:reinforced_mossy_cobblestone: 1286
+	securitycraft:reinforced_mossy_cobblestone_slab: 1428
+	securitycraft:reinforced_mossy_cobblestone_stairs: 1410
+	securitycraft:reinforced_mossy_cobblestone_wall: 1462
+	securitycraft:reinforced_mossy_stone_brick_slab: 1426
+	securitycraft:reinforced_mossy_stone_brick_stairs: 1408
+	securitycraft:reinforced_mossy_stone_brick_wall: 1466
+	securitycraft:reinforced_mossy_stone_bricks: 1304
+	securitycraft:reinforced_moving_piston: 1664
+	securitycraft:reinforced_mud: 1155
+	securitycraft:reinforced_mud_brick_slab: 1271
+	securitycraft:reinforced_mud_brick_stairs: 1316
+	securitycraft:reinforced_mud_brick_wall: 1469
+	securitycraft:reinforced_mud_bricks: 1308
+	securitycraft:reinforced_mycelium: 1317
+	securitycraft:reinforced_nether_brick_fence: 1632
+	securitycraft:reinforced_nether_brick_slab: 1272
+	securitycraft:reinforced_nether_brick_stairs: 1321
+	securitycraft:reinforced_nether_brick_wall: 1470
+	securitycraft:reinforced_nether_bricks: 1318
+	securitycraft:reinforced_nether_wart_block: 1385
+	securitycraft:reinforced_netherite_block: 1181
+	securitycraft:reinforced_netherrack: 1296
+	securitycraft:reinforced_normal_stone_slab: 1264
+	securitycraft:reinforced_oak_button: 1550
+	securitycraft:reinforced_oak_fence: 1621
+	securitycraft:reinforced_oak_fence_gate: 1633
+	securitycraft:reinforced_oak_log: 1197
+	securitycraft:reinforced_oak_planks: 1160
+	securitycraft:reinforced_oak_pressure_plate: 1561
+	securitycraft:reinforced_oak_slab: 1255
+	securitycraft:reinforced_oak_stairs: 1291
+	securitycraft:reinforced_oak_wood: 1224
+	securitycraft:reinforced_observer: 1541
+	securitycraft:reinforced_obsidian: 1287
+	securitycraft:reinforced_ochre_froglight: 1535
+	securitycraft:reinforced_orange_carpet: 1484
+	securitycraft:reinforced_orange_concrete: 1390
+	securitycraft:reinforced_orange_glazed_terracotta: 1516
+	securitycraft:reinforced_orange_stained_glass: 1358
+	securitycraft:reinforced_orange_stained_glass_pane: 1500
+	securitycraft:reinforced_orange_terracotta: 1337
+	securitycraft:reinforced_orange_wool: 1240
+	securitycraft:reinforced_oxidized_copper: 1184
+	securitycraft:reinforced_oxidized_cut_copper: 1188
+	securitycraft:reinforced_oxidized_cut_copper_slab: 1196
+	securitycraft:reinforced_oxidized_cut_copper_stairs: 1192
+	securitycraft:reinforced_packed_ice: 1353
+	securitycraft:reinforced_packed_mud: 1307
+	securitycraft:reinforced_pearlescent_froglight: 1537
+	securitycraft:reinforced_pink_carpet: 1489
+	securitycraft:reinforced_pink_concrete: 1395
+	securitycraft:reinforced_pink_glazed_terracotta: 1521
+	securitycraft:reinforced_pink_stained_glass: 1363
+	securitycraft:reinforced_pink_stained_glass_pane: 1505
+	securitycraft:reinforced_pink_terracotta: 1342
+	securitycraft:reinforced_pink_wool: 1245
+	securitycraft:reinforced_piston: 1539
+	securitycraft:reinforced_piston_head: 1665
+	securitycraft:reinforced_podzol: 1154
+	securitycraft:reinforced_polished_andesite: 1144
+	securitycraft:reinforced_polished_andesite_slab: 1435
+	securitycraft:reinforced_polished_andesite_stairs: 1418
+	securitycraft:reinforced_polished_basalt: 1300
+	securitycraft:reinforced_polished_blackstone: 1445
+	securitycraft:reinforced_polished_blackstone_brick_slab: 1450
+	securitycraft:reinforced_polished_blackstone_brick_stairs: 1451
+	securitycraft:reinforced_polished_blackstone_brick_wall: 1478
+	securitycraft:reinforced_polished_blackstone_bricks: 1449
+	securitycraft:reinforced_polished_blackstone_button: 1549
+	securitycraft:reinforced_polished_blackstone_pressure_plate: 1560
+	securitycraft:reinforced_polished_blackstone_slab: 1446
+	securitycraft:reinforced_polished_blackstone_stairs: 1447
+	securitycraft:reinforced_polished_blackstone_wall: 1477
+	securitycraft:reinforced_polished_deepslate: 1147
+	securitycraft:reinforced_polished_deepslate_slab: 1438
+	securitycraft:reinforced_polished_deepslate_stairs: 1421
+	securitycraft:reinforced_polished_deepslate_wall: 1480
+	securitycraft:reinforced_polished_diorite: 1142
+	securitycraft:reinforced_polished_diorite_slab: 1427
+	securitycraft:reinforced_polished_diorite_stairs: 1409
+	securitycraft:reinforced_polished_granite: 1140
+	securitycraft:reinforced_polished_granite_slab: 1424
+	securitycraft:reinforced_polished_granite_stairs: 1406
+	securitycraft:reinforced_powder_snow_cauldron: 1574
+	securitycraft:reinforced_prismarine: 1373
+	securitycraft:reinforced_prismarine_brick_slab: 1278
+	securitycraft:reinforced_prismarine_brick_stairs: 1377
+	securitycraft:reinforced_prismarine_bricks: 1374
+	securitycraft:reinforced_prismarine_slab: 1277
+	securitycraft:reinforced_prismarine_stairs: 1376
+	securitycraft:reinforced_prismarine_wall: 1464
+	securitycraft:reinforced_purple_carpet: 1493
+	securitycraft:reinforced_purple_concrete: 1399
+	securitycraft:reinforced_purple_glazed_terracotta: 1525
+	securitycraft:reinforced_purple_stained_glass: 1367
+	securitycraft:reinforced_purple_stained_glass_pane: 1509
+	securitycraft:reinforced_purple_terracotta: 1346
+	securitycraft:reinforced_purple_wool: 1249
+	securitycraft:reinforced_purpur_block: 1288
+	securitycraft:reinforced_purpur_pillar: 1289
+	securitycraft:reinforced_purpur_slab: 1276
+	securitycraft:reinforced_purpur_stairs: 1290
+	securitycraft:reinforced_quartz_block: 1332
+	securitycraft:reinforced_quartz_bricks: 1333
+	securitycraft:reinforced_quartz_pillar: 1334
+	securitycraft:reinforced_quartz_slab: 1273
+	securitycraft:reinforced_quartz_stairs: 1335
+	securitycraft:reinforced_raw_copper_block: 1174
+	securitycraft:reinforced_raw_gold_block: 1175
+	securitycraft:reinforced_raw_iron_block: 1173
+	securitycraft:reinforced_red_carpet: 1497
+	securitycraft:reinforced_red_concrete: 1403
+	securitycraft:reinforced_red_glazed_terracotta: 1529
+	securitycraft:reinforced_red_nether_brick_slab: 1434
+	securitycraft:reinforced_red_nether_brick_stairs: 1417
+	securitycraft:reinforced_red_nether_brick_wall: 1472
+	securitycraft:reinforced_red_nether_bricks: 1387
+	securitycraft:reinforced_red_sand: 1170
+	securitycraft:reinforced_red_sandstone: 1380
+	securitycraft:reinforced_red_sandstone_slab: 1274
+	securitycraft:reinforced_red_sandstone_stairs: 1383
+	securitycraft:reinforced_red_sandstone_wall: 1465
+	securitycraft:reinforced_red_stained_glass: 1371
+	securitycraft:reinforced_red_stained_glass_pane: 1513
+	securitycraft:reinforced_red_terracotta: 1350
+	securitycraft:reinforced_red_wool: 1253
+	securitycraft:reinforced_redstone_block: 1538
+	securitycraft:reinforced_redstone_lamp: 1547
+	securitycraft:reinforced_rooted_dirt: 1158
+	securitycraft:reinforced_sand: 1169
+	securitycraft:reinforced_sandstone: 1236
+	securitycraft:reinforced_sandstone_slab: 1266
+	securitycraft:reinforced_sandstone_stairs: 1324
+	securitycraft:reinforced_sandstone_wall: 1473
+	securitycraft:reinforced_scaffolding: 1531
+	securitycraft:reinforced_sea_lantern: 1379
+	securitycraft:reinforced_shroomlight: 1534
+	securitycraft:reinforced_smooth_basalt: 1301
+	securitycraft:reinforced_smooth_crystal_quartz: 1654
+	securitycraft:reinforced_smooth_crystal_quartz_slab: 1661
+	securitycraft:reinforced_smooth_crystal_quartz_stairs: 1660
+	securitycraft:reinforced_smooth_quartz: 1280
+	securitycraft:reinforced_smooth_quartz_slab: 1431
+	securitycraft:reinforced_smooth_quartz_stairs: 1414
+	securitycraft:reinforced_smooth_red_sandstone: 1281
+	securitycraft:reinforced_smooth_red_sandstone_slab: 1425
+	securitycraft:reinforced_smooth_red_sandstone_stairs: 1407
+	securitycraft:reinforced_smooth_sandstone: 1282
+	securitycraft:reinforced_smooth_sandstone_slab: 1430
+	securitycraft:reinforced_smooth_sandstone_stairs: 1413
+	securitycraft:reinforced_smooth_stone: 1283
+	securitycraft:reinforced_snow_block: 1294
+	securitycraft:reinforced_soul_lantern: 1533
+	securitycraft:reinforced_soul_sand: 1297
+	securitycraft:reinforced_soul_soil: 1298
+	securitycraft:reinforced_spruce_button: 1551
+	securitycraft:reinforced_spruce_fence: 1622
+	securitycraft:reinforced_spruce_fence_gate: 1634
+	securitycraft:reinforced_spruce_log: 1198
+	securitycraft:reinforced_spruce_planks: 1161
+	securitycraft:reinforced_spruce_pressure_plate: 1562
+	securitycraft:reinforced_spruce_slab: 1256
+	securitycraft:reinforced_spruce_stairs: 1326
+	securitycraft:reinforced_spruce_wood: 1225
+	securitycraft:reinforced_sticky_piston: 1540
+	securitycraft:reinforced_stone: 1138
+	securitycraft:reinforced_stone_brick_slab: 1270
+	securitycraft:reinforced_stone_brick_stairs: 1315
+	securitycraft:reinforced_stone_brick_wall: 1468
+	securitycraft:reinforced_stone_bricks: 1303
+	securitycraft:reinforced_stone_button: 1548
+	securitycraft:reinforced_stone_pressure_plate: 1559
+	securitycraft:reinforced_stone_slab: 1265
+	securitycraft:reinforced_stone_stairs: 1412
+	securitycraft:reinforced_stripped_acacia_log: 1210
+	securitycraft:reinforced_stripped_acacia_wood: 1219
+	securitycraft:reinforced_stripped_bamboo_block: 1576
+	securitycraft:reinforced_stripped_birch_log: 1208
+	securitycraft:reinforced_stripped_birch_wood: 1217
+	securitycraft:reinforced_stripped_cherry_log: 1614
+	securitycraft:reinforced_stripped_cherry_wood: 1615
+	securitycraft:reinforced_stripped_crimson_hyphae: 1222
+	securitycraft:reinforced_stripped_crimson_stem: 1213
+	securitycraft:reinforced_stripped_dark_oak_log: 1211
+	securitycraft:reinforced_stripped_dark_oak_wood: 1220
+	securitycraft:reinforced_stripped_jungle_log: 1209
+	securitycraft:reinforced_stripped_jungle_wood: 1218
+	securitycraft:reinforced_stripped_mangrove_log: 1212
+	securitycraft:reinforced_stripped_mangrove_wood: 1221
+	securitycraft:reinforced_stripped_oak_log: 1206
+	securitycraft:reinforced_stripped_oak_wood: 1215
+	securitycraft:reinforced_stripped_spruce_log: 1207
+	securitycraft:reinforced_stripped_spruce_wood: 1216
+	securitycraft:reinforced_stripped_warped_hyphae: 1223
+	securitycraft:reinforced_stripped_warped_stem: 1214
+	securitycraft:reinforced_tinted_glass: 1234
+	securitycraft:reinforced_tuff: 1149
+	securitycraft:reinforced_verdant_froglight: 1536
+	securitycraft:reinforced_warped_button: 1558
+	securitycraft:reinforced_warped_fence: 1631
+	securitycraft:reinforced_warped_fence_gate: 1643
+	securitycraft:reinforced_warped_hyphae: 1232
+	securitycraft:reinforced_warped_nylium: 1157
+	securitycraft:reinforced_warped_planks: 1168
+	securitycraft:reinforced_warped_pressure_plate: 1569
+	securitycraft:reinforced_warped_slab: 1263
+	securitycraft:reinforced_warped_stairs: 1330
+	securitycraft:reinforced_warped_stem: 1205
+	securitycraft:reinforced_warped_wart_block: 1386
+	securitycraft:reinforced_water_cauldron: 1572
+	securitycraft:reinforced_weathered_copper: 1183
+	securitycraft:reinforced_weathered_cut_copper: 1187
+	securitycraft:reinforced_weathered_cut_copper_slab: 1195
+	securitycraft:reinforced_weathered_cut_copper_stairs: 1191
+	securitycraft:reinforced_white_carpet: 1483
+	securitycraft:reinforced_white_concrete: 1389
+	securitycraft:reinforced_white_glazed_terracotta: 1515
+	securitycraft:reinforced_white_stained_glass: 1357
+	securitycraft:reinforced_white_stained_glass_pane: 1499
+	securitycraft:reinforced_white_terracotta: 1336
+	securitycraft:reinforced_white_wool: 1239
+	securitycraft:reinforced_yellow_carpet: 1487
+	securitycraft:reinforced_yellow_concrete: 1393
+	securitycraft:reinforced_yellow_glazed_terracotta: 1519
+	securitycraft:reinforced_yellow_stained_glass: 1361
+	securitycraft:reinforced_yellow_stained_glass_pane: 1503
+	securitycraft:reinforced_yellow_terracotta: 1340
+	securitycraft:reinforced_yellow_wool: 1243
+	securitycraft:retinal_scanner: 1073
+	securitycraft:rift_stabilizer: 1074
+	securitycraft:sand_mine: 1109
+	securitycraft:scanner_door: 1075
+	securitycraft:scanner_trapdoor: 1076
+	securitycraft:secret_acacia_hanging_sign: 1597
+	securitycraft:secret_acacia_sign_standing: 1085
+	securitycraft:secret_acacia_sign_wall: 1086
+	securitycraft:secret_acacia_wall_hanging_sign: 1598
+	securitycraft:secret_bamboo_hanging_sign: 1605
+	securitycraft:secret_bamboo_sign_standing: 1587
+	securitycraft:secret_bamboo_sign_wall: 1588
+	securitycraft:secret_bamboo_wall_hanging_sign: 1606
+	securitycraft:secret_birch_hanging_sign: 1593
+	securitycraft:secret_birch_sign_standing: 1081
+	securitycraft:secret_birch_sign_wall: 1082
+	securitycraft:secret_birch_wall_hanging_sign: 1594
+	securitycraft:secret_cherry_hanging_sign: 1603
+	securitycraft:secret_cherry_sign_standing: 1585
+	securitycraft:secret_cherry_sign_wall: 1586
+	securitycraft:secret_cherry_wall_hanging_sign: 1604
+	securitycraft:secret_crimson_hanging_sign: 1607
+	securitycraft:secret_crimson_sign_standing: 1091
+	securitycraft:secret_crimson_sign_wall: 1092
+	securitycraft:secret_crimson_wall_hanging_sign: 1608
+	securitycraft:secret_dark_oak_hanging_sign: 1599
+	securitycraft:secret_dark_oak_sign_standing: 1087
+	securitycraft:secret_dark_oak_sign_wall: 1088
+	securitycraft:secret_dark_oak_wall_hanging_sign: 1600
+	securitycraft:secret_jungle_hanging_sign: 1595
+	securitycraft:secret_jungle_sign_standing: 1083
+	securitycraft:secret_jungle_sign_wall: 1084
+	securitycraft:secret_jungle_wall_hanging_sign: 1596
+	securitycraft:secret_mangrove_hanging_sign: 1601
+	securitycraft:secret_mangrove_sign_standing: 1089
+	securitycraft:secret_mangrove_sign_wall: 1090
+	securitycraft:secret_mangrove_wall_hanging_sign: 1602
+	securitycraft:secret_oak_hanging_sign: 1589
+	securitycraft:secret_oak_wall_hanging_sign: 1590
+	securitycraft:secret_sign_standing: 1077
+	securitycraft:secret_sign_wall: 1078
+	securitycraft:secret_spruce_hanging_sign: 1591
+	securitycraft:secret_spruce_sign_standing: 1079
+	securitycraft:secret_spruce_sign_wall: 1080
+	securitycraft:secret_spruce_wall_hanging_sign: 1592
+	securitycraft:secret_warped_hanging_sign: 1609
+	securitycraft:secret_warped_sign_standing: 1093
+	securitycraft:secret_warped_sign_wall: 1094
+	securitycraft:secret_warped_wall_hanging_sign: 1610
+	securitycraft:secure_redstone_interface: 1095
+	securitycraft:security_camera: 1096
+	securitycraft:sentry_disguise: 1666
+	securitycraft:smoker_mine: 1134
+	securitycraft:smooth_crystal_quartz: 1645
+	securitycraft:smooth_crystal_quartz_slab: 1652
+	securitycraft:smooth_crystal_quartz_stairs: 1651
+	securitycraft:sonic_security_system: 1097
+	securitycraft:stone_mine: 1104
+	securitycraft:suspicious_gravel_mine: 1137
+	securitycraft:suspicious_sand_mine: 1136
+	securitycraft:track_mine: 1098
+	securitycraft:trophy_system: 1099
+	securitycraft:username_logger: 1100
+
+[11Apr2025 02:09:51.295] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:enchantment
+	apotheosis:bane_of_illagers: 62
+	apotheosis:berserkers_fury: 39
+	apotheosis:capturing: 63
+	apotheosis:chainsaw: 40
+	apotheosis:chromatic: 41
+	apotheosis:crescendo: 42
+	apotheosis:earths_boon: 43
+	apotheosis:endless_quiver: 44
+	apotheosis:exploitation: 45
+	apotheosis:growth_serum: 46
+	apotheosis:icy_thorns: 47
+	apotheosis:infusion: 48
+	apotheosis:knowledge: 49
+	apotheosis:life_mending: 50
+	apotheosis:miners_fervor: 51
+	apotheosis:natures_blessing: 52
+	apotheosis:obliteration: 53
+	apotheosis:rebounding: 54
+	apotheosis:reflective: 55
+	apotheosis:scavenger: 56
+	apotheosis:shield_bash: 57
+	apotheosis:spearfishing: 58
+	apotheosis:splitting: 59
+	apotheosis:stable_footing: 60
+	apotheosis:tempting: 61
+
+[11Apr2025 02:09:51.296] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:entity_type
+	apotheosis:broadhead_arrow: 125
+	apotheosis:explosive_arrow: 126
+	apotheosis:mining_arrow: 127
+	apotheosis:obsidian_arrow: 124
+	securitycraft:bouncingbetty: 128
+	securitycraft:bullet: 132
+	securitycraft:imsbomb: 129
+	securitycraft:security_sea_boat: 133
+	securitycraft:securitycamera: 130
+	securitycraft:sentry: 131
+
+[11Apr2025 02:09:51.296] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:fluid
+	securitycraft:fake_lava: 8
+	securitycraft:fake_water: 6
+	securitycraft:flowing_fake_lava: 7
+	securitycraft:flowing_fake_water: 5
+
+[11Apr2025 02:09:51.302] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:item
+	apotheosis:ancient_material: 1305
+	apotheosis:augmenting_table: 1318
+	apotheosis:beeshelf: 1255
+	apotheosis:blazing_hellshelf: 1256
+	apotheosis:boots_tome: 1257
+	apotheosis:boss_summoner: 1313
+	apotheosis:bow_tome: 1258
+	apotheosis:broadhead_arrow: 1325
+	apotheosis:chestplate_tome: 1259
+	apotheosis:common_material: 1300
+	apotheosis:crystal_seashelf: 1260
+	apotheosis:deepshelf: 1261
+	apotheosis:diamond_mining_arrow: 1328
+	apotheosis:dormant_deepshelf: 1262
+	apotheosis:draconic_endshelf: 1263
+	apotheosis:echoing_deepshelf: 1264
+	apotheosis:echoing_sculkshelf: 1265
+	apotheosis:ender_lead: 1321
+	apotheosis:ender_library: 1266
+	apotheosis:endshelf: 1267
+	apotheosis:epic_material: 1303
+	apotheosis:explosive_arrow: 1326
+	apotheosis:extraction_tome: 1268
+	apotheosis:filtering_shelf: 1298
+	apotheosis:fishing_tome: 1269
+	apotheosis:gem: 1319
+	apotheosis:gem_cutting_table: 1317
+	apotheosis:gem_dust: 1306
+	apotheosis:gem_fused_slate: 1307
+	apotheosis:glowing_hellshelf: 1270
+	apotheosis:heart_seashelf: 1271
+	apotheosis:hellshelf: 1272
+	apotheosis:helmet_tome: 1273
+	apotheosis:improved_scrap_tome: 1274
+	apotheosis:inert_trident: 1275
+	apotheosis:infused_breath: 1276
+	apotheosis:infused_hellshelf: 1277
+	apotheosis:infused_seashelf: 1278
+	apotheosis:iron_mining_arrow: 1327
+	apotheosis:leggings_tome: 1279
+	apotheosis:library: 1280
+	apotheosis:lucky_foot: 1322
+	apotheosis:melonshelf: 1281
+	apotheosis:mythic_material: 1304
+	apotheosis:obsidian_arrow: 1324
+	apotheosis:other_tome: 1282
+	apotheosis:pearl_endshelf: 1283
+	apotheosis:pickaxe_tome: 1284
+	apotheosis:potion_charm: 1323
+	apotheosis:prismatic_web: 1285
+	apotheosis:rare_material: 1302
+	apotheosis:rectifier: 1286
+	apotheosis:rectifier_t2: 1287
+	apotheosis:rectifier_t3: 1288
+	apotheosis:reforging_table: 1315
+	apotheosis:salvaging_table: 1316
+	apotheosis:scrap_tome: 1289
+	apotheosis:seashelf: 1290
+	apotheosis:sightshelf: 1291
+	apotheosis:sightshelf_t2: 1292
+	apotheosis:sigil_of_enhancement: 1311
+	apotheosis:sigil_of_rebirth: 1310
+	apotheosis:sigil_of_socketing: 1308
+	apotheosis:sigil_of_unnaming: 1312
+	apotheosis:sigil_of_withdrawal: 1309
+	apotheosis:simple_reforging_table: 1314
+	apotheosis:soul_touched_deepshelf: 1293
+	apotheosis:soul_touched_sculkshelf: 1294
+	apotheosis:stoneshelf: 1295
+	apotheosis:treasure_shelf: 1299
+	apotheosis:uncommon_material: 1301
+	apotheosis:warden_tendril: 1296
+	apotheosis:weapon_tome: 1297
+	patchouli:guide_book: 1320
+	securitycraft:acacia_security_sea_boat: 1384
+	securitycraft:admin_tool: 1329
+	securitycraft:alarm: 1409
+	securitycraft:ancient_debris_mine: 1330
+	securitycraft:bamboo_security_sea_raft: 1388
+	securitycraft:birch_security_sea_boat: 1382
+	securitycraft:blacklist_module: 1401
+	securitycraft:blast_furnace_mine: 1474
+	securitycraft:block_change_detector: 1410
+	securitycraft:block_pocket_manager: 1411
+	securitycraft:block_pocket_wall: 1412
+	securitycraft:bouncing_betty: 1413
+	securitycraft:briefcase: 1331
+	securitycraft:bucket_f_lava: 1336
+	securitycraft:bucket_f_water: 1337
+	securitycraft:cage_trap: 1414
+	securitycraft:camera_monitor: 1332
+	securitycraft:cherry_security_sea_boat: 1387
+	securitycraft:chiseled_crystal_quartz: 1955
+	securitycraft:claymore: 1415
+	securitycraft:coal_mine: 1453
+	securitycraft:cobbled_deepslate_mine: 1446
+	securitycraft:cobblestone_mine: 1448
+	securitycraft:codebreaker: 1333
+	securitycraft:copper_mine: 1459
+	securitycraft:crystal_quartz: 1956
+	securitycraft:crystal_quartz_bricks: 1957
+	securitycraft:crystal_quartz_item: 1334
+	securitycraft:crystal_quartz_pillar: 1958
+	securitycraft:crystal_quartz_slab: 1953
+	securitycraft:crystal_quartz_stairs: 1959
+	securitycraft:dark_oak_security_sea_boat: 1385
+	securitycraft:deepslate_coal_mine: 1454
+	securitycraft:deepslate_copper_mine: 1460
+	securitycraft:deepslate_diamond_mine: 1468
+	securitycraft:deepslate_emerald_mine: 1464
+	securitycraft:deepslate_gold_mine: 1458
+	securitycraft:deepslate_iron_mine: 1456
+	securitycraft:deepslate_lapis_mine: 1466
+	securitycraft:deepslate_mine: 1445
+	securitycraft:deepslate_redstone_mine: 1462
+	securitycraft:diamond_mine: 1467
+	securitycraft:dirt_mine: 1447
+	securitycraft:disguise_module: 1402
+	securitycraft:display_case: 1335
+	securitycraft:door_indestructible_iron_item: 1351
+	securitycraft:electrified_iron_fence: 1420
+	securitycraft:emerald_mine: 1463
+	securitycraft:end_stone_mine: 1452
+	securitycraft:floor_trap: 1416
+	securitycraft:furnace_mine: 1472
+	securitycraft:gilded_blackstone_mine: 1471
+	securitycraft:glow_display_case: 1338
+	securitycraft:gold_mine: 1457
+	securitycraft:gravel_mine: 1450
+	securitycraft:harming_module: 1403
+	securitycraft:ims: 1418
+	securitycraft:inventory_scanner: 1419
+	securitycraft:iron_mine: 1455
+	securitycraft:jungle_security_sea_boat: 1383
+	securitycraft:keycard_holder: 1339
+	securitycraft:keycard_lock: 1421
+	securitycraft:keycard_lv1: 1340
+	securitycraft:keycard_lv2: 1341
+	securitycraft:keycard_lv3: 1342
+	securitycraft:keycard_lv4: 1343
+	securitycraft:keycard_lv5: 1344
+	securitycraft:keycard_reader: 1422
+	securitycraft:keypad: 1423
+	securitycraft:keypad_barrel: 1424
+	securitycraft:keypad_blast_furnace: 1428
+	securitycraft:keypad_chest: 1346
+	securitycraft:keypad_door_item: 1347
+	securitycraft:keypad_frame: 1417
+	securitycraft:keypad_furnace: 1426
+	securitycraft:keypad_item: 1345
+	securitycraft:keypad_smoker: 1427
+	securitycraft:keypad_trapdoor: 1425
+	securitycraft:lapis_mine: 1465
+	securitycraft:laser_block: 1429
+	securitycraft:lens: 1348
+	securitycraft:limited_use_keycard: 1349
+	securitycraft:mangrove_security_sea_boat: 1386
+	securitycraft:mine: 1443
+	securitycraft:motion_activated_light: 1430
+	securitycraft:nether_gold_mine: 1469
+	securitycraft:netherrack_mine: 1451
+	securitycraft:oak_security_sea_boat: 1380
+	securitycraft:panic_button: 1431
+	securitycraft:portable_radar: 1432
+	securitycraft:portable_tune_player: 1350
+	securitycraft:projector: 1433
+	securitycraft:protecto: 1434
+	securitycraft:quartz_mine: 1470
+	securitycraft:redstone_mine: 1461
+	securitycraft:redstone_module: 1404
+	securitycraft:reinforced_acacia_button: 1892
+	securitycraft:reinforced_acacia_fence: 1934
+	securitycraft:reinforced_acacia_fence_gate: 1946
+	securitycraft:reinforced_acacia_log: 1540
+	securitycraft:reinforced_acacia_planks: 1503
+	securitycraft:reinforced_acacia_pressure_plate: 1903
+	securitycraft:reinforced_acacia_slab: 1598
+	securitycraft:reinforced_acacia_stairs: 1693
+	securitycraft:reinforced_acacia_wood: 1567
+	securitycraft:reinforced_amethyst_block: 1515
+	securitycraft:reinforced_andesite: 1482
+	securitycraft:reinforced_andesite_slab: 1772
+	securitycraft:reinforced_andesite_stairs: 1755
+	securitycraft:reinforced_andesite_wall: 1810
+	securitycraft:reinforced_bamboo_block: 1910
+	securitycraft:reinforced_bamboo_button: 1919
+	securitycraft:reinforced_bamboo_fence: 1938
+	securitycraft:reinforced_bamboo_fence_gate: 1950
+	securitycraft:reinforced_bamboo_mosaic: 1913
+	securitycraft:reinforced_bamboo_mosaic_slab: 1917
+	securitycraft:reinforced_bamboo_mosaic_stairs: 1915
+	securitycraft:reinforced_bamboo_planks: 1912
+	securitycraft:reinforced_bamboo_pressure_plate: 1918
+	securitycraft:reinforced_bamboo_slab: 1916
+	securitycraft:reinforced_bamboo_stairs: 1914
+	securitycraft:reinforced_basalt: 1638
+	securitycraft:reinforced_birch_button: 1890
+	securitycraft:reinforced_birch_fence: 1932
+	securitycraft:reinforced_birch_fence_gate: 1944
+	securitycraft:reinforced_birch_log: 1538
+	securitycraft:reinforced_birch_planks: 1501
+	securitycraft:reinforced_birch_pressure_plate: 1901
+	securitycraft:reinforced_birch_slab: 1596
+	securitycraft:reinforced_birch_stairs: 1666
+	securitycraft:reinforced_birch_wood: 1565
+	securitycraft:reinforced_black_carpet: 1837
+	securitycraft:reinforced_black_concrete: 1743
+	securitycraft:reinforced_black_glazed_terracotta: 1869
+	securitycraft:reinforced_black_stained_glass: 1711
+	securitycraft:reinforced_black_stained_glass_pane: 1853
+	securitycraft:reinforced_black_terracotta: 1690
+	securitycraft:reinforced_black_wool: 1593
+	securitycraft:reinforced_blackstone: 1781
+	securitycraft:reinforced_blackstone_slab: 1782
+	securitycraft:reinforced_blackstone_stairs: 1783
+	securitycraft:reinforced_blackstone_wall: 1815
+	securitycraft:reinforced_blue_carpet: 1833
+	securitycraft:reinforced_blue_concrete: 1739
+	securitycraft:reinforced_blue_glazed_terracotta: 1865
+	securitycraft:reinforced_blue_ice: 1744
+	securitycraft:reinforced_blue_stained_glass: 1707
+	securitycraft:reinforced_blue_stained_glass_pane: 1849
+	securitycraft:reinforced_blue_terracotta: 1686
+	securitycraft:reinforced_blue_wool: 1589
+	securitycraft:reinforced_bone_block: 1727
+	securitycraft:reinforced_bookshelf: 1624
+	securitycraft:reinforced_brick_slab: 1608
+	securitycraft:reinforced_brick_stairs: 1653
+	securitycraft:reinforced_brick_wall: 1802
+	securitycraft:reinforced_bricks: 1623
+	securitycraft:reinforced_brown_carpet: 1834
+	securitycraft:reinforced_brown_concrete: 1740
+	securitycraft:reinforced_brown_glazed_terracotta: 1866
+	securitycraft:reinforced_brown_stained_glass: 1708
+	securitycraft:reinforced_brown_stained_glass_pane: 1850
+	securitycraft:reinforced_brown_terracotta: 1687
+	securitycraft:reinforced_brown_wool: 1590
+	securitycraft:reinforced_calcite: 1487
+	securitycraft:reinforced_cauldron: 1909
+	securitycraft:reinforced_chain: 1798
+	securitycraft:reinforced_cherry_button: 1929
+	securitycraft:reinforced_cherry_fence: 1937
+	securitycraft:reinforced_cherry_fence_gate: 1949
+	securitycraft:reinforced_cherry_log: 1921
+	securitycraft:reinforced_cherry_planks: 1925
+	securitycraft:reinforced_cherry_pressure_plate: 1928
+	securitycraft:reinforced_cherry_slab: 1927
+	securitycraft:reinforced_cherry_stairs: 1926
+	securitycraft:reinforced_cherry_wood: 1922
+	securitycraft:reinforced_chiseled_bookshelf: 1920
+	securitycraft:reinforced_chiseled_crystal_quartz_block: 1964
+	securitycraft:reinforced_chiseled_deepslate: 1652
+	securitycraft:reinforced_chiseled_nether_bricks: 1659
+	securitycraft:reinforced_chiseled_polished_blackstone: 1787
+	securitycraft:reinforced_chiseled_quartz_block: 1670
+	securitycraft:reinforced_chiseled_red_sandstone: 1720
+	securitycraft:reinforced_chiseled_sandstone: 1576
+	securitycraft:reinforced_chiseled_stone_bricks: 1645
+	securitycraft:reinforced_clay: 1634
+	securitycraft:reinforced_coal_block: 1511
+	securitycraft:reinforced_coarse_dirt: 1492
+	securitycraft:reinforced_cobbled_deepslate: 1485
+	securitycraft:reinforced_cobbled_deepslate_slab: 1776
+	securitycraft:reinforced_cobbled_deepslate_stairs: 1759
+	securitycraft:reinforced_cobbled_deepslate_wall: 1818
+	securitycraft:reinforced_cobblestone: 1498
+	securitycraft:reinforced_cobblestone_slab: 1607
+	securitycraft:reinforced_cobblestone_stairs: 1631
+	securitycraft:reinforced_cobblestone_wall: 1800
+	securitycraft:reinforced_cobweb: 1792
+	securitycraft:reinforced_copper_block: 1517
+	securitycraft:reinforced_cracked_deepslate_bricks: 1649
+	securitycraft:reinforced_cracked_deepslate_tiles: 1651
+	securitycraft:reinforced_cracked_nether_bricks: 1658
+	securitycraft:reinforced_cracked_polished_blackstone_bricks: 1791
+	securitycraft:reinforced_cracked_stone_bricks: 1644
+	securitycraft:reinforced_crimson_button: 1895
+	securitycraft:reinforced_crimson_fence: 1939
+	securitycraft:reinforced_crimson_fence_gate: 1951
+	securitycraft:reinforced_crimson_hyphae: 1570
+	securitycraft:reinforced_crimson_nylium: 1495
+	securitycraft:reinforced_crimson_planks: 1506
+	securitycraft:reinforced_crimson_pressure_plate: 1906
+	securitycraft:reinforced_crimson_slab: 1601
+	securitycraft:reinforced_crimson_stairs: 1668
+	securitycraft:reinforced_crimson_stem: 1543
+	securitycraft:reinforced_crying_obsidian: 1780
+	securitycraft:reinforced_crystal_quartz_block: 1965
+	securitycraft:reinforced_crystal_quartz_bricks: 1966
+	securitycraft:reinforced_crystal_quartz_pillar: 1967
+	securitycraft:reinforced_crystal_quartz_slab: 1962
+	securitycraft:reinforced_crystal_quartz_stairs: 1968
+	securitycraft:reinforced_cut_copper: 1524
+	securitycraft:reinforced_cut_copper_slab: 1532
+	securitycraft:reinforced_cut_copper_stairs: 1528
+	securitycraft:reinforced_cut_red_sandstone: 1721
+	securitycraft:reinforced_cut_red_sandstone_slab: 1614
+	securitycraft:reinforced_cut_sandstone: 1577
+	securitycraft:reinforced_cut_sandstone_slab: 1606
+	securitycraft:reinforced_cyan_carpet: 1831
+	securitycraft:reinforced_cyan_concrete: 1737
+	securitycraft:reinforced_cyan_glazed_terracotta: 1863
+	securitycraft:reinforced_cyan_stained_glass: 1705
+	securitycraft:reinforced_cyan_stained_glass_pane: 1847
+	securitycraft:reinforced_cyan_terracotta: 1684
+	securitycraft:reinforced_cyan_wool: 1587
+	securitycraft:reinforced_dark_oak_button: 1893
+	securitycraft:reinforced_dark_oak_fence: 1935
+	securitycraft:reinforced_dark_oak_fence_gate: 1947
+	securitycraft:reinforced_dark_oak_log: 1541
+	securitycraft:reinforced_dark_oak_planks: 1504
+	securitycraft:reinforced_dark_oak_pressure_plate: 1904
+	securitycraft:reinforced_dark_oak_slab: 1599
+	securitycraft:reinforced_dark_oak_stairs: 1694
+	securitycraft:reinforced_dark_oak_wood: 1568
+	securitycraft:reinforced_dark_prismarine: 1714
+	securitycraft:reinforced_dark_prismarine_slab: 1618
+	securitycraft:reinforced_dark_prismarine_stairs: 1717
+	securitycraft:reinforced_deepslate: 1484
+	securitycraft:reinforced_deepslate_brick_slab: 1778
+	securitycraft:reinforced_deepslate_brick_stairs: 1761
+	securitycraft:reinforced_deepslate_brick_wall: 1820
+	securitycraft:reinforced_deepslate_bricks: 1648
+	securitycraft:reinforced_deepslate_tile_slab: 1779
+	securitycraft:reinforced_deepslate_tile_stairs: 1762
+	securitycraft:reinforced_deepslate_tile_wall: 1821
+	securitycraft:reinforced_deepslate_tiles: 1650
+	securitycraft:reinforced_diamond_block: 1519
+	securitycraft:reinforced_diorite: 1480
+	securitycraft:reinforced_diorite_slab: 1775
+	securitycraft:reinforced_diorite_stairs: 1758
+	securitycraft:reinforced_diorite_wall: 1814
+	securitycraft:reinforced_dirt: 1491
+	securitycraft:reinforced_dispenser: 1881
+	securitycraft:reinforced_dripstone_block: 1489
+	securitycraft:reinforced_dropper: 1882
+	securitycraft:reinforced_emerald_block: 1664
+	securitycraft:reinforced_end_rod: 1795
+	securitycraft:reinforced_end_stone: 1661
+	securitycraft:reinforced_end_stone_brick_slab: 1768
+	securitycraft:reinforced_end_stone_brick_stairs: 1750
+	securitycraft:reinforced_end_stone_brick_wall: 1813
+	securitycraft:reinforced_end_stone_bricks: 1662
+	securitycraft:reinforced_exposed_copper: 1521
+	securitycraft:reinforced_exposed_cut_copper: 1525
+	securitycraft:reinforced_exposed_cut_copper_slab: 1533
+	securitycraft:reinforced_exposed_cut_copper_stairs: 1529
+	securitycraft:reinforced_fence_gate: 1435
+	securitycraft:reinforced_glass: 1572
+	securitycraft:reinforced_glass_pane: 1799
+	securitycraft:reinforced_glowstone: 1641
+	securitycraft:reinforced_gold_block: 1518
+	securitycraft:reinforced_granite: 1478
+	securitycraft:reinforced_granite_slab: 1771
+	securitycraft:reinforced_granite_stairs: 1754
+	securitycraft:reinforced_granite_wall: 1806
+	securitycraft:reinforced_grass_block: 1490
+	securitycraft:reinforced_grass_path: 1971
+	securitycraft:reinforced_gravel: 1510
+	securitycraft:reinforced_gray_carpet: 1829
+	securitycraft:reinforced_gray_concrete: 1735
+	securitycraft:reinforced_gray_glazed_terracotta: 1861
+	securitycraft:reinforced_gray_stained_glass: 1703
+	securitycraft:reinforced_gray_stained_glass_pane: 1845
+	securitycraft:reinforced_gray_terracotta: 1682
+	securitycraft:reinforced_gray_wool: 1585
+	securitycraft:reinforced_green_carpet: 1835
+	securitycraft:reinforced_green_concrete: 1741
+	securitycraft:reinforced_green_glazed_terracotta: 1867
+	securitycraft:reinforced_green_stained_glass: 1709
+	securitycraft:reinforced_green_stained_glass_pane: 1851
+	securitycraft:reinforced_green_terracotta: 1688
+	securitycraft:reinforced_green_wool: 1591
+	securitycraft:reinforced_hardened_clay: 1691
+	securitycraft:reinforced_hopper: 1880
+	securitycraft:reinforced_ice: 1632
+	securitycraft:reinforced_iron_bars: 1796
+	securitycraft:reinforced_iron_block: 1516
+	securitycraft:reinforced_iron_trapdoor: 1908
+	securitycraft:reinforced_jungle_button: 1891
+	securitycraft:reinforced_jungle_fence: 1933
+	securitycraft:reinforced_jungle_fence_gate: 1945
+	securitycraft:reinforced_jungle_log: 1539
+	securitycraft:reinforced_jungle_planks: 1502
+	securitycraft:reinforced_jungle_pressure_plate: 1902
+	securitycraft:reinforced_jungle_slab: 1597
+	securitycraft:reinforced_jungle_stairs: 1667
+	securitycraft:reinforced_jungle_wood: 1566
+	securitycraft:reinforced_ladder: 1797
+	securitycraft:reinforced_lantern: 1870
+	securitycraft:reinforced_lapis_block: 1574
+	securitycraft:reinforced_lectern: 1883
+	securitycraft:reinforced_lever: 1884
+	securitycraft:reinforced_light_blue_carpet: 1825
+	securitycraft:reinforced_light_blue_concrete: 1731
+	securitycraft:reinforced_light_blue_glazed_terracotta: 1857
+	securitycraft:reinforced_light_blue_stained_glass: 1699
+	securitycraft:reinforced_light_blue_stained_glass_pane: 1841
+	securitycraft:reinforced_light_blue_terracotta: 1678
+	securitycraft:reinforced_light_blue_wool: 1581
+	securitycraft:reinforced_light_gray_carpet: 1830
+	securitycraft:reinforced_light_gray_concrete: 1736
+	securitycraft:reinforced_light_gray_glazed_terracotta: 1862
+	securitycraft:reinforced_light_gray_stained_glass: 1704
+	securitycraft:reinforced_light_gray_stained_glass_pane: 1846
+	securitycraft:reinforced_light_gray_terracotta: 1683
+	securitycraft:reinforced_light_gray_wool: 1586
+	securitycraft:reinforced_lime_carpet: 1827
+	securitycraft:reinforced_lime_concrete: 1733
+	securitycraft:reinforced_lime_glazed_terracotta: 1859
+	securitycraft:reinforced_lime_stained_glass: 1701
+	securitycraft:reinforced_lime_stained_glass_pane: 1843
+	securitycraft:reinforced_lime_terracotta: 1680
+	securitycraft:reinforced_lime_wool: 1583
+	securitycraft:reinforced_magenta_carpet: 1824
+	securitycraft:reinforced_magenta_concrete: 1730
+	securitycraft:reinforced_magenta_glazed_terracotta: 1856
+	securitycraft:reinforced_magenta_stained_glass: 1698
+	securitycraft:reinforced_magenta_stained_glass_pane: 1840
+	securitycraft:reinforced_magenta_terracotta: 1677
+	securitycraft:reinforced_magenta_wool: 1580
+	securitycraft:reinforced_magma_block: 1723
+	securitycraft:reinforced_mangrove_button: 1894
+	securitycraft:reinforced_mangrove_fence: 1936
+	securitycraft:reinforced_mangrove_fence_gate: 1948
+	securitycraft:reinforced_mangrove_log: 1542
+	securitycraft:reinforced_mangrove_planks: 1505
+	securitycraft:reinforced_mangrove_pressure_plate: 1905
+	securitycraft:reinforced_mangrove_slab: 1600
+	securitycraft:reinforced_mangrove_stairs: 1695
+	securitycraft:reinforced_mangrove_wood: 1569
+	securitycraft:reinforced_moss_block: 1794
+	securitycraft:reinforced_moss_carpet: 1793
+	securitycraft:reinforced_mossy_cobblestone: 1625
+	securitycraft:reinforced_mossy_cobblestone_slab: 1767
+	securitycraft:reinforced_mossy_cobblestone_stairs: 1749
+	securitycraft:reinforced_mossy_cobblestone_wall: 1801
+	securitycraft:reinforced_mossy_stone_brick_slab: 1765
+	securitycraft:reinforced_mossy_stone_brick_stairs: 1747
+	securitycraft:reinforced_mossy_stone_brick_wall: 1805
+	securitycraft:reinforced_mossy_stone_bricks: 1643
+	securitycraft:reinforced_mud: 1494
+	securitycraft:reinforced_mud_brick_slab: 1610
+	securitycraft:reinforced_mud_brick_stairs: 1655
+	securitycraft:reinforced_mud_brick_wall: 1808
+	securitycraft:reinforced_mud_bricks: 1647
+	securitycraft:reinforced_mycelium: 1656
+	securitycraft:reinforced_nether_brick_fence: 1941
+	securitycraft:reinforced_nether_brick_slab: 1611
+	securitycraft:reinforced_nether_brick_stairs: 1660
+	securitycraft:reinforced_nether_brick_wall: 1809
+	securitycraft:reinforced_nether_bricks: 1657
+	securitycraft:reinforced_nether_wart_block: 1724
+	securitycraft:reinforced_netherite_block: 1520
+	securitycraft:reinforced_netherrack: 1635
+	securitycraft:reinforced_normal_stone_slab: 1603
+	securitycraft:reinforced_oak_button: 1888
+	securitycraft:reinforced_oak_fence: 1930
+	securitycraft:reinforced_oak_fence_gate: 1942
+	securitycraft:reinforced_oak_log: 1536
+	securitycraft:reinforced_oak_planks: 1499
+	securitycraft:reinforced_oak_pressure_plate: 1899
+	securitycraft:reinforced_oak_slab: 1594
+	securitycraft:reinforced_oak_stairs: 1630
+	securitycraft:reinforced_oak_wood: 1563
+	securitycraft:reinforced_observer: 1879
+	securitycraft:reinforced_obsidian: 1626
+	securitycraft:reinforced_ochre_froglight: 1873
+	securitycraft:reinforced_orange_carpet: 1823
+	securitycraft:reinforced_orange_concrete: 1729
+	securitycraft:reinforced_orange_glazed_terracotta: 1855
+	securitycraft:reinforced_orange_stained_glass: 1697
+	securitycraft:reinforced_orange_stained_glass_pane: 1839
+	securitycraft:reinforced_orange_terracotta: 1676
+	securitycraft:reinforced_orange_wool: 1579
+	securitycraft:reinforced_oxidized_copper: 1523
+	securitycraft:reinforced_oxidized_cut_copper: 1527
+	securitycraft:reinforced_oxidized_cut_copper_slab: 1535
+	securitycraft:reinforced_oxidized_cut_copper_stairs: 1531
+	securitycraft:reinforced_packed_ice: 1692
+	securitycraft:reinforced_packed_mud: 1646
+	securitycraft:reinforced_pearlescent_froglight: 1875
+	securitycraft:reinforced_pink_carpet: 1828
+	securitycraft:reinforced_pink_concrete: 1734
+	securitycraft:reinforced_pink_glazed_terracotta: 1860
+	securitycraft:reinforced_pink_stained_glass: 1702
+	securitycraft:reinforced_pink_stained_glass_pane: 1844
+	securitycraft:reinforced_pink_terracotta: 1681
+	securitycraft:reinforced_pink_wool: 1584
+	securitycraft:reinforced_piston: 1877
+	securitycraft:reinforced_podzol: 1493
+	securitycraft:reinforced_polished_andesite: 1483
+	securitycraft:reinforced_polished_andesite_slab: 1774
+	securitycraft:reinforced_polished_andesite_stairs: 1757
+	securitycraft:reinforced_polished_basalt: 1639
+	securitycraft:reinforced_polished_blackstone: 1784
+	securitycraft:reinforced_polished_blackstone_brick_slab: 1789
+	securitycraft:reinforced_polished_blackstone_brick_stairs: 1790
+	securitycraft:reinforced_polished_blackstone_brick_wall: 1817
+	securitycraft:reinforced_polished_blackstone_bricks: 1788
+	securitycraft:reinforced_polished_blackstone_button: 1887
+	securitycraft:reinforced_polished_blackstone_pressure_plate: 1898
+	securitycraft:reinforced_polished_blackstone_slab: 1785
+	securitycraft:reinforced_polished_blackstone_stairs: 1786
+	securitycraft:reinforced_polished_blackstone_wall: 1816
+	securitycraft:reinforced_polished_deepslate: 1486
+	securitycraft:reinforced_polished_deepslate_slab: 1777
+	securitycraft:reinforced_polished_deepslate_stairs: 1760
+	securitycraft:reinforced_polished_deepslate_wall: 1819
+	securitycraft:reinforced_polished_diorite: 1481
+	securitycraft:reinforced_polished_diorite_slab: 1766
+	securitycraft:reinforced_polished_diorite_stairs: 1748
+	securitycraft:reinforced_polished_granite: 1479
+	securitycraft:reinforced_polished_granite_slab: 1763
+	securitycraft:reinforced_polished_granite_stairs: 1745
+	securitycraft:reinforced_prismarine: 1712
+	securitycraft:reinforced_prismarine_brick_slab: 1617
+	securitycraft:reinforced_prismarine_brick_stairs: 1716
+	securitycraft:reinforced_prismarine_bricks: 1713
+	securitycraft:reinforced_prismarine_slab: 1616
+	securitycraft:reinforced_prismarine_stairs: 1715
+	securitycraft:reinforced_prismarine_wall: 1803
+	securitycraft:reinforced_purple_carpet: 1832
+	securitycraft:reinforced_purple_concrete: 1738
+	securitycraft:reinforced_purple_glazed_terracotta: 1864
+	securitycraft:reinforced_purple_stained_glass: 1706
+	securitycraft:reinforced_purple_stained_glass_pane: 1848
+	securitycraft:reinforced_purple_terracotta: 1685
+	securitycraft:reinforced_purple_wool: 1588
+	securitycraft:reinforced_purpur_block: 1627
+	securitycraft:reinforced_purpur_pillar: 1628
+	securitycraft:reinforced_purpur_slab: 1615
+	securitycraft:reinforced_purpur_stairs: 1629
+	securitycraft:reinforced_quartz_block: 1671
+	securitycraft:reinforced_quartz_bricks: 1672
+	securitycraft:reinforced_quartz_pillar: 1673
+	securitycraft:reinforced_quartz_slab: 1612
+	securitycraft:reinforced_quartz_stairs: 1674
+	securitycraft:reinforced_raw_copper_block: 1513
+	securitycraft:reinforced_raw_gold_block: 1514
+	securitycraft:reinforced_raw_iron_block: 1512
+	securitycraft:reinforced_red_carpet: 1836
+	securitycraft:reinforced_red_concrete: 1742
+	securitycraft:reinforced_red_glazed_terracotta: 1868
+	securitycraft:reinforced_red_nether_brick_slab: 1773
+	securitycraft:reinforced_red_nether_brick_stairs: 1756
+	securitycraft:reinforced_red_nether_brick_wall: 1811
+	securitycraft:reinforced_red_nether_bricks: 1726
+	securitycraft:reinforced_red_sand: 1509
+	securitycraft:reinforced_red_sandstone: 1719
+	securitycraft:reinforced_red_sandstone_slab: 1613
+	securitycraft:reinforced_red_sandstone_stairs: 1722
+	securitycraft:reinforced_red_sandstone_wall: 1804
+	securitycraft:reinforced_red_stained_glass: 1710
+	securitycraft:reinforced_red_stained_glass_pane: 1852
+	securitycraft:reinforced_red_terracotta: 1689
+	securitycraft:reinforced_red_wool: 1592
+	securitycraft:reinforced_redstone_block: 1876
+	securitycraft:reinforced_redstone_lamp: 1885
+	securitycraft:reinforced_rooted_dirt: 1497
+	securitycraft:reinforced_sand: 1508
+	securitycraft:reinforced_sandstone: 1575
+	securitycraft:reinforced_sandstone_slab: 1605
+	securitycraft:reinforced_sandstone_stairs: 1663
+	securitycraft:reinforced_sandstone_wall: 1812
+	securitycraft:reinforced_scaffolding: 1357
+	securitycraft:reinforced_sea_lantern: 1718
+	securitycraft:reinforced_shroomlight: 1872
+	securitycraft:reinforced_smooth_basalt: 1640
+	securitycraft:reinforced_smooth_crystal_quartz: 1963
+	securitycraft:reinforced_smooth_crystal_quartz_slab: 1970
+	securitycraft:reinforced_smooth_crystal_quartz_stairs: 1969
+	securitycraft:reinforced_smooth_quartz: 1619
+	securitycraft:reinforced_smooth_quartz_slab: 1770
+	securitycraft:reinforced_smooth_quartz_stairs: 1753
+	securitycraft:reinforced_smooth_red_sandstone: 1620
+	securitycraft:reinforced_smooth_red_sandstone_slab: 1764
+	securitycraft:reinforced_smooth_red_sandstone_stairs: 1746
+	securitycraft:reinforced_smooth_sandstone: 1621
+	securitycraft:reinforced_smooth_sandstone_slab: 1769
+	securitycraft:reinforced_smooth_sandstone_stairs: 1752
+	securitycraft:reinforced_smooth_stone: 1622
+	securitycraft:reinforced_snow_block: 1633
+	securitycraft:reinforced_soul_lantern: 1871
+	securitycraft:reinforced_soul_sand: 1636
+	securitycraft:reinforced_soul_soil: 1637
+	securitycraft:reinforced_spruce_button: 1889
+	securitycraft:reinforced_spruce_fence: 1931
+	securitycraft:reinforced_spruce_fence_gate: 1943
+	securitycraft:reinforced_spruce_log: 1537
+	securitycraft:reinforced_spruce_planks: 1500
+	securitycraft:reinforced_spruce_pressure_plate: 1900
+	securitycraft:reinforced_spruce_slab: 1595
+	securitycraft:reinforced_spruce_stairs: 1665
+	securitycraft:reinforced_spruce_wood: 1564
+	securitycraft:reinforced_sticky_piston: 1878
+	securitycraft:reinforced_stone: 1477
+	securitycraft:reinforced_stone_brick_slab: 1609
+	securitycraft:reinforced_stone_brick_stairs: 1654
+	securitycraft:reinforced_stone_brick_wall: 1807
+	securitycraft:reinforced_stone_bricks: 1642
+	securitycraft:reinforced_stone_button: 1886
+	securitycraft:reinforced_stone_pressure_plate: 1897
+	securitycraft:reinforced_stone_slab: 1604
+	securitycraft:reinforced_stone_stairs: 1751
+	securitycraft:reinforced_stripped_acacia_log: 1549
+	securitycraft:reinforced_stripped_acacia_wood: 1558
+	securitycraft:reinforced_stripped_bamboo_block: 1911
+	securitycraft:reinforced_stripped_birch_log: 1547
+	securitycraft:reinforced_stripped_birch_wood: 1556
+	securitycraft:reinforced_stripped_cherry_log: 1923
+	securitycraft:reinforced_stripped_cherry_wood: 1924
+	securitycraft:reinforced_stripped_crimson_hyphae: 1561
+	securitycraft:reinforced_stripped_crimson_stem: 1552
+	securitycraft:reinforced_stripped_dark_oak_log: 1550
+	securitycraft:reinforced_stripped_dark_oak_wood: 1559
+	securitycraft:reinforced_stripped_jungle_log: 1548
+	securitycraft:reinforced_stripped_jungle_wood: 1557
+	securitycraft:reinforced_stripped_mangrove_log: 1551
+	securitycraft:reinforced_stripped_mangrove_wood: 1560
+	securitycraft:reinforced_stripped_oak_log: 1545
+	securitycraft:reinforced_stripped_oak_wood: 1554
+	securitycraft:reinforced_stripped_spruce_log: 1546
+	securitycraft:reinforced_stripped_spruce_wood: 1555
+	securitycraft:reinforced_stripped_warped_hyphae: 1562
+	securitycraft:reinforced_stripped_warped_stem: 1553
+	securitycraft:reinforced_tinted_glass: 1573
+	securitycraft:reinforced_tuff: 1488
+	securitycraft:reinforced_verdant_froglight: 1874
+	securitycraft:reinforced_warped_button: 1896
+	securitycraft:reinforced_warped_fence: 1940
+	securitycraft:reinforced_warped_fence_gate: 1952
+	securitycraft:reinforced_warped_hyphae: 1571
+	securitycraft:reinforced_warped_nylium: 1496
+	securitycraft:reinforced_warped_planks: 1507
+	securitycraft:reinforced_warped_pressure_plate: 1907
+	securitycraft:reinforced_warped_slab: 1602
+	securitycraft:reinforced_warped_stairs: 1669
+	securitycraft:reinforced_warped_stem: 1544
+	securitycraft:reinforced_warped_wart_block: 1725
+	securitycraft:reinforced_weathered_copper: 1522
+	securitycraft:reinforced_weathered_cut_copper: 1526
+	securitycraft:reinforced_weathered_cut_copper_slab: 1534
+	securitycraft:reinforced_weathered_cut_copper_stairs: 1530
+	securitycraft:reinforced_white_carpet: 1822
+	securitycraft:reinforced_white_concrete: 1728
+	securitycraft:reinforced_white_glazed_terracotta: 1854
+	securitycraft:reinforced_white_stained_glass: 1696
+	securitycraft:reinforced_white_stained_glass_pane: 1838
+	securitycraft:reinforced_white_terracotta: 1675
+	securitycraft:reinforced_white_wool: 1578
+	securitycraft:reinforced_yellow_carpet: 1826
+	securitycraft:reinforced_yellow_concrete: 1732
+	securitycraft:reinforced_yellow_glazed_terracotta: 1858
+	securitycraft:reinforced_yellow_stained_glass: 1700
+	securitycraft:reinforced_yellow_stained_glass_pane: 1842
+	securitycraft:reinforced_yellow_terracotta: 1679
+	securitycraft:reinforced_yellow_wool: 1582
+	securitycraft:remote_access_mine: 1352
+	securitycraft:remote_access_sentry: 1353
+	securitycraft:retinal_scanner: 1436
+	securitycraft:rift_stabilizer: 1354
+	securitycraft:sand_mine: 1449
+	securitycraft:sc_manual: 1356
+	securitycraft:scanner_door_item: 1355
+	securitycraft:scanner_trapdoor: 1437
+	securitycraft:secret_acacia_hanging_sign: 1373
+	securitycraft:secret_acacia_sign_item: 1362
+	securitycraft:secret_bamboo_hanging_sign: 1377
+	securitycraft:secret_bamboo_sign_item: 1366
+	securitycraft:secret_birch_hanging_sign: 1371
+	securitycraft:secret_birch_sign_item: 1360
+	securitycraft:secret_cherry_hanging_sign: 1376
+	securitycraft:secret_cherry_sign_item: 1365
+	securitycraft:secret_crimson_hanging_sign: 1378
+	securitycraft:secret_crimson_sign_item: 1367
+	securitycraft:secret_dark_oak_hanging_sign: 1374
+	securitycraft:secret_dark_oak_sign_item: 1363
+	securitycraft:secret_jungle_hanging_sign: 1372
+	securitycraft:secret_jungle_sign_item: 1361
+	securitycraft:secret_mangrove_hanging_sign: 1375
+	securitycraft:secret_mangrove_sign_item: 1364
+	securitycraft:secret_oak_hanging_sign: 1369
+	securitycraft:secret_sign_item: 1358
+	securitycraft:secret_spruce_hanging_sign: 1370
+	securitycraft:secret_spruce_sign_item: 1359
+	securitycraft:secret_warped_hanging_sign: 1379
+	securitycraft:secret_warped_sign_item: 1368
+	securitycraft:secure_redstone_interface: 1438
+	securitycraft:security_camera: 1439
+	securitycraft:sentry: 1389
+	securitycraft:smart_module: 1405
+	securitycraft:smoker_mine: 1473
+	securitycraft:smooth_crystal_quartz: 1954
+	securitycraft:smooth_crystal_quartz_slab: 1961
+	securitycraft:smooth_crystal_quartz_stairs: 1960
+	securitycraft:sonic_security_system: 1390
+	securitycraft:speed_module: 1408
+	securitycraft:spruce_security_sea_boat: 1381
+	securitycraft:stone_mine: 1444
+	securitycraft:storage_module: 1406
+	securitycraft:suspicious_gravel_mine: 1476
+	securitycraft:suspicious_sand_mine: 1475
+	securitycraft:taser: 1391
+	securitycraft:taser_powered: 1392
+	securitycraft:track_mine: 1440
+	securitycraft:trophy_system: 1441
+	securitycraft:universal_block_modifier: 1393
+	securitycraft:universal_block_reinforcer_lvl1: 1394
+	securitycraft:universal_block_reinforcer_lvl2: 1395
+	securitycraft:universal_block_reinforcer_lvl3: 1396
+	securitycraft:universal_block_remover: 1397
+	securitycraft:universal_key_changer: 1398
+	securitycraft:universal_owner_changer: 1399
+	securitycraft:username_logger: 1442
+	securitycraft:whitelist_module: 1407
+	securitycraft:wire_cutters: 1400
+
+[11Apr2025 02:09:51.320] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:mob_effect
+	attributeslib:bleeding: 0
+	attributeslib:detonation: 34
+	attributeslib:flying: 39
+	attributeslib:grievous: 35
+	attributeslib:knowledge: 36
+	attributeslib:sundering: 37
+	attributeslib:vitality: 38
+
+[11Apr2025 02:09:51.320] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:potion
+	apotheosis:absorption: 46
+	apotheosis:extra_long_flying: 73
+	apotheosis:fatigue: 52
+	apotheosis:flying: 71
+	apotheosis:grievous: 67
+	apotheosis:haste: 49
+	apotheosis:knowledge: 61
+	apotheosis:levitation: 70
+	apotheosis:long_absorption: 47
+	apotheosis:long_fatigue: 53
+	apotheosis:long_flying: 72
+	apotheosis:long_grievous: 68
+	apotheosis:long_haste: 50
+	apotheosis:long_knowledge: 62
+	apotheosis:long_resistance: 44
+	apotheosis:long_sundering: 59
+	apotheosis:long_vitality: 65
+	apotheosis:long_wither: 56
+	apotheosis:resistance: 43
+	apotheosis:strong_absorption: 48
+	apotheosis:strong_fatigue: 54
+	apotheosis:strong_grievous: 69
+	apotheosis:strong_haste: 51
+	apotheosis:strong_knowledge: 63
+	apotheosis:strong_resistance: 45
+	apotheosis:strong_sundering: 60
+	apotheosis:strong_vitality: 66
+	apotheosis:strong_wither: 57
+	apotheosis:sundering: 58
+	apotheosis:vitality: 64
+	apotheosis:wither: 55
+
+[11Apr2025 02:09:51.324] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:sound_event
+	apotheosis:reforge: 1475
+	attributeslib:dodge: 1474
+	patchouli:book_flip: 1477
+	patchouli:book_open: 1476
+	securitycraft:alarm: 1478
+	securitycraft:camerasnap: 1480
+	securitycraft:camerazoomin: 1479
+	securitycraft:display_case_close: 1487
+	securitycraft:display_case_open: 1486
+	securitycraft:electrified: 1482
+	securitycraft:get_item: 1485
+	securitycraft:lock: 1483
+	securitycraft:ping: 1484
+	securitycraft:taserfire: 1481
+
+[11Apr2025 02:09:51.332] [main/WARN] [net.minecraftforge.registries.GameData/REGISTRIES]: Forge Mod Loader detected missing registry entries.
+
+There are 1472 missing entries in this save.
+If you continue the missing entries will get removed.
+A world backup will be automatically created in your saves directory.
+
+
+[11Apr2025 02:09:51.334] [main/WARN] [net.minecraftforge.registries.GameData/REGISTRIES]: Missing minecraft:sound_event:
+    apotheosis:reforge
+    attributeslib:dodge
+    patchouli:book_flip
+    patchouli:book_open
+    securitycraft:alarm
+    securitycraft:camerasnap
+    securitycraft:camerazoomin
+    securitycraft:display_case_close
+    securitycraft:display_case_open
+    securitycraft:electrified
+    securitycraft:get_item
+    securitycraft:lock
+    securitycraft:ping
+    securitycraft:taserfire
+
+Missing minecraft:item:
+    apotheosis:ancient_material
+    apotheosis:augmenting_table
+    apotheosis:beeshelf
+    apotheosis:blazing_hellshelf
+    apotheosis:boots_tome
+    apotheosis:boss_summoner
+    apotheosis:bow_tome
+    apotheosis:broadhead_arrow
+    apotheosis:chestplate_tome
+    apotheosis:common_material
+    apotheosis:crystal_seashelf
+    apotheosis:deepshelf
+    apotheosis:diamond_mining_arrow
+    apotheosis:dormant_deepshelf
+    apotheosis:draconic_endshelf
+    apotheosis:echoing_deepshelf
+    apotheosis:echoing_sculkshelf
+    apotheosis:ender_lead
+    apotheosis:ender_library
+    apotheosis:endshelf
+    apotheosis:epic_material
+    apotheosis:explosive_arrow
+    apotheosis:extraction_tome
+    apotheosis:filtering_shelf
+    apotheosis:fishing_tome
+    apotheosis:gem
+    apotheosis:gem_cutting_table
+    apotheosis:gem_dust
+    apotheosis:gem_fused_slate
+    apotheosis:glowing_hellshelf
+    apotheosis:heart_seashelf
+    apotheosis:hellshelf
+    apotheosis:helmet_tome
+    apotheosis:improved_scrap_tome
+    apotheosis:inert_trident
+    apotheosis:infused_breath
+    apotheosis:infused_hellshelf
+    apotheosis:infused_seashelf
+    apotheosis:iron_mining_arrow
+    apotheosis:leggings_tome
+    apotheosis:library
+    apotheosis:lucky_foot
+    apotheosis:melonshelf
+    apotheosis:mythic_material
+    apotheosis:obsidian_arrow
+    apotheosis:other_tome
+    apotheosis:pearl_endshelf
+    apotheosis:pickaxe_tome
+    apotheosis:potion_charm
+    apotheosis:prismatic_web
+    apotheosis:rare_material
+    apotheosis:rectifier
+    apotheosis:rectifier_t2
+    apotheosis:rectifier_t3
+    apotheosis:reforging_table
+    apotheosis:salvaging_table
+    apotheosis:scrap_tome
+    apotheosis:seashelf
+    apotheosis:sightshelf
+    apotheosis:sightshelf_t2
+    apotheosis:sigil_of_enhancement
+    apotheosis:sigil_of_rebirth
+    apotheosis:sigil_of_socketing
+    apotheosis:sigil_of_unnaming
+    apotheosis:sigil_of_withdrawal
+    apotheosis:simple_reforging_table
+    apotheosis:soul_touched_deepshelf
+    apotheosis:soul_touched_sculkshelf
+    apotheosis:stoneshelf
+    apotheosis:treasure_shelf
+    apotheosis:uncommon_material
+    apotheosis:warden_tendril
+    apotheosis:weapon_tome
+    patchouli:guide_book
+    securitycraft:acacia_security_sea_boat
+    securitycraft:admin_tool
+    securitycraft:alarm
+    securitycraft:ancient_debris_mine
+    securitycraft:bamboo_security_sea_raft
+    securitycraft:birch_security_sea_boat
+    securitycraft:blacklist_module
+    securitycraft:blast_furnace_mine
+    securitycraft:block_change_detector
+    securitycraft:block_pocket_manager
+    securitycraft:block_pocket_wall
+    securitycraft:bouncing_betty
+    securitycraft:briefcase
+    securitycraft:bucket_f_lava
+    securitycraft:bucket_f_water
+    securitycraft:cage_trap
+    securitycraft:camera_monitor
+    securitycraft:cherry_security_sea_boat
+    securitycraft:chiseled_crystal_quartz
+    securitycraft:claymore
+    securitycraft:coal_mine
+    securitycraft:cobbled_deepslate_mine
+    securitycraft:cobblestone_mine
+    securitycraft:codebreaker
+    securitycraft:copper_mine
+    securitycraft:crystal_quartz
+    securitycraft:crystal_quartz_bricks
+    securitycraft:crystal_quartz_item
+    securitycraft:crystal_quartz_pillar
+    securitycraft:crystal_quartz_slab
+    securitycraft:crystal_quartz_stairs
+    securitycraft:dark_oak_security_sea_boat
+    securitycraft:deepslate_coal_mine
+    securitycraft:deepslate_copper_mine
+    securitycraft:deepslate_diamond_mine
+    securitycraft:deepslate_emerald_mine
+    securitycraft:deepslate_gold_mine
+    securitycraft:deepslate_iron_mine
+    securitycraft:deepslate_lapis_mine
+    securitycraft:deepslate_mine
+    securitycraft:deepslate_redstone_mine
+    securitycraft:diamond_mine
+    securitycraft:dirt_mine
+    securitycraft:disguise_module
+    securitycraft:display_case
+    securitycraft:door_indestructible_iron_item
+    securitycraft:electrified_iron_fence
+    securitycraft:emerald_mine
+    securitycraft:end_stone_mine
+    securitycraft:floor_trap
+    securitycraft:furnace_mine
+    securitycraft:gilded_blackstone_mine
+    securitycraft:glow_display_case
+    securitycraft:gold_mine
+    securitycraft:gravel_mine
+    securitycraft:harming_module
+    securitycraft:ims
+    securitycraft:inventory_scanner
+    securitycraft:iron_mine
+    securitycraft:jungle_security_sea_boat
+    securitycraft:keycard_holder
+    securitycraft:keycard_lock
+    securitycraft:keycard_lv1
+    securitycraft:keycard_lv2
+    securitycraft:keycard_lv3
+    securitycraft:keycard_lv4
+    securitycraft:keycard_lv5
+    securitycraft:keycard_reader
+    securitycraft:keypad
+    securitycraft:keypad_barrel
+    securitycraft:keypad_blast_furnace
+    securitycraft:keypad_chest
+    securitycraft:keypad_door_item
+    securitycraft:keypad_frame
+    securitycraft:keypad_furnace
+    securitycraft:keypad_item
+    securitycraft:keypad_smoker
+    securitycraft:keypad_trapdoor
+    securitycraft:lapis_mine
+    securitycraft:laser_block
+    securitycraft:lens
+    securitycraft:limited_use_keycard
+    securitycraft:mangrove_security_sea_boat
+    securitycraft:mine
+    securitycraft:motion_activated_light
+    securitycraft:nether_gold_mine
+    securitycraft:netherrack_mine
+    securitycraft:oak_security_sea_boat
+    securitycraft:panic_button
+    securitycraft:portable_radar
+    securitycraft:portable_tune_player
+    securitycraft:projector
+    securitycraft:protecto
+    securitycraft:quartz_mine
+    securitycraft:redstone_mine
+    securitycraft:redstone_module
+    securitycraft:reinforced_acacia_button
+    securitycraft:reinforced_acacia_fence
+    securitycraft:reinforced_acacia_fence_gate
+    securitycraft:reinforced_acacia_log
+    securitycraft:reinforced_acacia_planks
+    securitycraft:reinforced_acacia_pressure_plate
+    securitycraft:reinforced_acacia_slab
+    securitycraft:reinforced_acacia_stairs
+    securitycraft:reinforced_acacia_wood
+    securitycraft:reinforced_amethyst_block
+    securitycraft:reinforced_andesite
+    securitycraft:reinforced_andesite_slab
+    securitycraft:reinforced_andesite_stairs
+    securitycraft:reinforced_andesite_wall
+    securitycraft:reinforced_bamboo_block
+    securitycraft:reinforced_bamboo_button
+    securitycraft:reinforced_bamboo_fence
+    securitycraft:reinforced_bamboo_fence_gate
+    securitycraft:reinforced_bamboo_mosaic
+    securitycraft:reinforced_bamboo_mosaic_slab
+    securitycraft:reinforced_bamboo_mosaic_stairs
+    securitycraft:reinforced_bamboo_planks
+    securitycraft:reinforced_bamboo_pressure_plate
+    securitycraft:reinforced_bamboo_slab
+    securitycraft:reinforced_bamboo_stairs
+    securitycraft:reinforced_basalt
+    securitycraft:reinforced_birch_button
+    securitycraft:reinforced_birch_fence
+    securitycraft:reinforced_birch_fence_gate
+    securitycraft:reinforced_birch_log
+    securitycraft:reinforced_birch_planks
+    securitycraft:reinforced_birch_pressure_plate
+    securitycraft:reinforced_birch_slab
+    securitycraft:reinforced_birch_stairs
+    securitycraft:reinforced_birch_wood
+    securitycraft:reinforced_black_carpet
+    securitycraft:reinforced_black_concrete
+    securitycraft:reinforced_black_glazed_terracotta
+    securitycraft:reinforced_black_stained_glass
+    securitycraft:reinforced_black_stained_glass_pane
+    securitycraft:reinforced_black_terracotta
+    securitycraft:reinforced_black_wool
+    securitycraft:reinforced_blackstone
+    securitycraft:reinforced_blackstone_slab
+    securitycraft:reinforced_blackstone_stairs
+    securitycraft:reinforced_blackstone_wall
+    securitycraft:reinforced_blue_carpet
+    securitycraft:reinforced_blue_concrete
+    securitycraft:reinforced_blue_glazed_terracotta
+    securitycraft:reinforced_blue_ice
+    securitycraft:reinforced_blue_stained_glass
+    securitycraft:reinforced_blue_stained_glass_pane
+    securitycraft:reinforced_blue_terracotta
+    securitycraft:reinforced_blue_wool
+    securitycraft:reinforced_bone_block
+    securitycraft:reinforced_bookshelf
+    securitycraft:reinforced_brick_slab
+    securitycraft:reinforced_brick_stairs
+    securitycraft:reinforced_brick_wall
+    securitycraft:reinforced_bricks
+    securitycraft:reinforced_brown_carpet
+    securitycraft:reinforced_brown_concrete
+    securitycraft:reinforced_brown_glazed_terracotta
+    securitycraft:reinforced_brown_stained_glass
+    securitycraft:reinforced_brown_stained_glass_pane
+    securitycraft:reinforced_brown_terracotta
+    securitycraft:reinforced_brown_wool
+    securitycraft:reinforced_calcite
+    securitycraft:reinforced_cauldron
+    securitycraft:reinforced_chain
+    securitycraft:reinforced_cherry_button
+    securitycraft:reinforced_cherry_fence
+    securitycraft:reinforced_cherry_fence_gate
+    securitycraft:reinforced_cherry_log
+    securitycraft:reinforced_cherry_planks
+    securitycraft:reinforced_cherry_pressure_plate
+    securitycraft:reinforced_cherry_slab
+    securitycraft:reinforced_cherry_stairs
+    securitycraft:reinforced_cherry_wood
+    securitycraft:reinforced_chiseled_bookshelf
+    securitycraft:reinforced_chiseled_crystal_quartz_block
+    securitycraft:reinforced_chiseled_deepslate
+    securitycraft:reinforced_chiseled_nether_bricks
+    securitycraft:reinforced_chiseled_polished_blackstone
+    securitycraft:reinforced_chiseled_quartz_block
+    securitycraft:reinforced_chiseled_red_sandstone
+    securitycraft:reinforced_chiseled_sandstone
+    securitycraft:reinforced_chiseled_stone_bricks
+    securitycraft:reinforced_clay
+    securitycraft:reinforced_coal_block
+    securitycraft:reinforced_coarse_dirt
+    securitycraft:reinforced_cobbled_deepslate
+    securitycraft:reinforced_cobbled_deepslate_slab
+    securitycraft:reinforced_cobbled_deepslate_stairs
+    securitycraft:reinforced_cobbled_deepslate_wall
+    securitycraft:reinforced_cobblestone
+    securitycraft:reinforced_cobblestone_slab
+    securitycraft:reinforced_cobblestone_stairs
+    securitycraft:reinforced_cobblestone_wall
+    securitycraft:reinforced_cobweb
+    securitycraft:reinforced_copper_block
+    securitycraft:reinforced_cracked_deepslate_bricks
+    securitycraft:reinforced_cracked_deepslate_tiles
+    securitycraft:reinforced_cracked_nether_bricks
+    securitycraft:reinforced_cracked_polished_blackstone_bricks
+    securitycraft:reinforced_cracked_stone_bricks
+    securitycraft:reinforced_crimson_button
+    securitycraft:reinforced_crimson_fence
+    securitycraft:reinforced_crimson_fence_gate
+    securitycraft:reinforced_crimson_hyphae
+    securitycraft:reinforced_crimson_nylium
+    securitycraft:reinforced_crimson_planks
+    securitycraft:reinforced_crimson_pressure_plate
+    securitycraft:reinforced_crimson_slab
+    securitycraft:reinforced_crimson_stairs
+    securitycraft:reinforced_crimson_stem
+    securitycraft:reinforced_crying_obsidian
+    securitycraft:reinforced_crystal_quartz_block
+    securitycraft:reinforced_crystal_quartz_bricks
+    securitycraft:reinforced_crystal_quartz_pillar
+    securitycraft:reinforced_crystal_quartz_slab
+    securitycraft:reinforced_crystal_quartz_stairs
+    securitycraft:reinforced_cut_copper
+    securitycraft:reinforced_cut_copper_slab
+    securitycraft:reinforced_cut_copper_stairs
+    securitycraft:reinforced_cut_red_sandstone
+    securitycraft:reinforced_cut_red_sandstone_slab
+    securitycraft:reinforced_cut_sandstone
+    securitycraft:reinforced_cut_sandstone_slab
+    securitycraft:reinforced_cyan_carpet
+    securitycraft:reinforced_cyan_concrete
+    securitycraft:reinforced_cyan_glazed_terracotta
+    securitycraft:reinforced_cyan_stained_glass
+    securitycraft:reinforced_cyan_stained_glass_pane
+    securitycraft:reinforced_cyan_terracotta
+    securitycraft:reinforced_cyan_wool
+    securitycraft:reinforced_dark_oak_button
+    securitycraft:reinforced_dark_oak_fence
+    securitycraft:reinforced_dark_oak_fence_gate
+    securitycraft:reinforced_dark_oak_log
+    securitycraft:reinforced_dark_oak_planks
+    securitycraft:reinforced_dark_oak_pressure_plate
+    securitycraft:reinforced_dark_oak_slab
+    securitycraft:reinforced_dark_oak_stairs
+    securitycraft:reinforced_dark_oak_wood
+    securitycraft:reinforced_dark_prismarine
+    securitycraft:reinforced_dark_prismarine_slab
+    securitycraft:reinforced_dark_prismarine_stairs
+    securitycraft:reinforced_deepslate
+    securitycraft:reinforced_deepslate_brick_slab
+    securitycraft:reinforced_deepslate_brick_stairs
+    securitycraft:reinforced_deepslate_brick_wall
+    securitycraft:reinforced_deepslate_bricks
+    securitycraft:reinforced_deepslate_tile_slab
+    securitycraft:reinforced_deepslate_tile_stairs
+    securitycraft:reinforced_deepslate_tile_wall
+    securitycraft:reinforced_deepslate_tiles
+    securitycraft:reinforced_diamond_block
+    securitycraft:reinforced_diorite
+    securitycraft:reinforced_diorite_slab
+    securitycraft:reinforced_diorite_stairs
+    securitycraft:reinforced_diorite_wall
+    securitycraft:reinforced_dirt
+    securitycraft:reinforced_dispenser
+    securitycraft:reinforced_dripstone_block
+    securitycraft:reinforced_dropper
+    securitycraft:reinforced_emerald_block
+    securitycraft:reinforced_end_rod
+    securitycraft:reinforced_end_stone
+    securitycraft:reinforced_end_stone_brick_slab
+    securitycraft:reinforced_end_stone_brick_stairs
+    securitycraft:reinforced_end_stone_brick_wall
+    securitycraft:reinforced_end_stone_bricks
+    securitycraft:reinforced_exposed_copper
+    securitycraft:reinforced_exposed_cut_copper
+    securitycraft:reinforced_exposed_cut_copper_slab
+    securitycraft:reinforced_exposed_cut_copper_stairs
+    securitycraft:reinforced_fence_gate
+    securitycraft:reinforced_glass
+    securitycraft:reinforced_glass_pane
+    securitycraft:reinforced_glowstone
+    securitycraft:reinforced_gold_block
+    securitycraft:reinforced_granite
+    securitycraft:reinforced_granite_slab
+    securitycraft:reinforced_granite_stairs
+    securitycraft:reinforced_granite_wall
+    securitycraft:reinforced_grass_block
+    securitycraft:reinforced_grass_path
+    securitycraft:reinforced_gravel
+    securitycraft:reinforced_gray_carpet
+    securitycraft:reinforced_gray_concrete
+    securitycraft:reinforced_gray_glazed_terracotta
+    securitycraft:reinforced_gray_stained_glass
+    securitycraft:reinforced_gray_stained_glass_pane
+    securitycraft:reinforced_gray_terracotta
+    securitycraft:reinforced_gray_wool
+    securitycraft:reinforced_green_carpet
+    securitycraft:reinforced_green_concrete
+    securitycraft:reinforced_green_glazed_terracotta
+    securitycraft:reinforced_green_stained_glass
+    securitycraft:reinforced_green_stained_glass_pane
+    securitycraft:reinforced_green_terracotta
+    securitycraft:reinforced_green_wool
+    securitycraft:reinforced_hardened_clay
+    securitycraft:reinforced_hopper
+    securitycraft:reinforced_ice
+    securitycraft:reinforced_iron_bars
+    securitycraft:reinforced_iron_block
+    securitycraft:reinforced_iron_trapdoor
+    securitycraft:reinforced_jungle_button
+    securitycraft:reinforced_jungle_fence
+    securitycraft:reinforced_jungle_fence_gate
+    securitycraft:reinforced_jungle_log
+    securitycraft:reinforced_jungle_planks
+    securitycraft:reinforced_jungle_pressure_plate
+    securitycraft:reinforced_jungle_slab
+    securitycraft:reinforced_jungle_stairs
+    securitycraft:reinforced_jungle_wood
+    securitycraft:reinforced_ladder
+    securitycraft:reinforced_lantern
+    securitycraft:reinforced_lapis_block
+    securitycraft:reinforced_lectern
+    securitycraft:reinforced_lever
+    securitycraft:reinforced_light_blue_carpet
+    securitycraft:reinforced_light_blue_concrete
+    securitycraft:reinforced_light_blue_glazed_terracotta
+    securitycraft:reinforced_light_blue_stained_glass
+    securitycraft:reinforced_light_blue_stained_glass_pane
+    securitycraft:reinforced_light_blue_terracotta
+    securitycraft:reinforced_light_blue_wool
+    securitycraft:reinforced_light_gray_carpet
+    securitycraft:reinforced_light_gray_concrete
+    securitycraft:reinforced_light_gray_glazed_terracotta
+    securitycraft:reinforced_light_gray_stained_glass
+    securitycraft:reinforced_light_gray_stained_glass_pane
+    securitycraft:reinforced_light_gray_terracotta
+    securitycraft:reinforced_light_gray_wool
+    securitycraft:reinforced_lime_carpet
+    securitycraft:reinforced_lime_concrete
+    securitycraft:reinforced_lime_glazed_terracotta
+    securitycraft:reinforced_lime_stained_glass
+    securitycraft:reinforced_lime_stained_glass_pane
+    securitycraft:reinforced_lime_terracotta
+    securitycraft:reinforced_lime_wool
+    securitycraft:reinforced_magenta_carpet
+    securitycraft:reinforced_magenta_concrete
+    securitycraft:reinforced_magenta_glazed_terracotta
+    securitycraft:reinforced_magenta_stained_glass
+    securitycraft:reinforced_magenta_stained_glass_pane
+    securitycraft:reinforced_magenta_terracotta
+    securitycraft:reinforced_magenta_wool
+    securitycraft:reinforced_magma_block
+    securitycraft:reinforced_mangrove_button
+    securitycraft:reinforced_mangrove_fence
+    securitycraft:reinforced_mangrove_fence_gate
+    securitycraft:reinforced_mangrove_log
+    securitycraft:reinforced_mangrove_planks
+    securitycraft:reinforced_mangrove_pressure_plate
+    securitycraft:reinforced_mangrove_slab
+    securitycraft:reinforced_mangrove_stairs
+    securitycraft:reinforced_mangrove_wood
+    securitycraft:reinforced_moss_block
+    securitycraft:reinforced_moss_carpet
+    securitycraft:reinforced_mossy_cobblestone
+    securitycraft:reinforced_mossy_cobblestone_slab
+    securitycraft:reinforced_mossy_cobblestone_stairs
+    securitycraft:reinforced_mossy_cobblestone_wall
+    securitycraft:reinforced_mossy_stone_brick_slab
+    securitycraft:reinforced_mossy_stone_brick_stairs
+    securitycraft:reinforced_mossy_stone_brick_wall
+    securitycraft:reinforced_mossy_stone_bricks
+    securitycraft:reinforced_mud
+    securitycraft:reinforced_mud_brick_slab
+    securitycraft:reinforced_mud_brick_stairs
+    securitycraft:reinforced_mud_brick_wall
+    securitycraft:reinforced_mud_bricks
+    securitycraft:reinforced_mycelium
+    securitycraft:reinforced_nether_brick_fence
+    securitycraft:reinforced_nether_brick_slab
+    securitycraft:reinforced_nether_brick_stairs
+    securitycraft:reinforced_nether_brick_wall
+    securitycraft:reinforced_nether_bricks
+    securitycraft:reinforced_nether_wart_block
+    securitycraft:reinforced_netherite_block
+    securitycraft:reinforced_netherrack
+    securitycraft:reinforced_normal_stone_slab
+    securitycraft:reinforced_oak_button
+    securitycraft:reinforced_oak_fence
+    securitycraft:reinforced_oak_fence_gate
+    securitycraft:reinforced_oak_log
+    securitycraft:reinforced_oak_planks
+    securitycraft:reinforced_oak_pressure_plate
+    securitycraft:reinforced_oak_slab
+    securitycraft:reinforced_oak_stairs
+    securitycraft:reinforced_oak_wood
+    securitycraft:reinforced_observer
+    securitycraft:reinforced_obsidian
+    securitycraft:reinforced_ochre_froglight
+    securitycraft:reinforced_orange_carpet
+    securitycraft:reinforced_orange_concrete
+    securitycraft:reinforced_orange_glazed_terracotta
+    securitycraft:reinforced_orange_stained_glass
+    securitycraft:reinforced_orange_stained_glass_pane
+    securitycraft:reinforced_orange_terracotta
+    securitycraft:reinforced_orange_wool
+    securitycraft:reinforced_oxidized_copper
+    securitycraft:reinforced_oxidized_cut_copper
+    securitycraft:reinforced_oxidized_cut_copper_slab
+    securitycraft:reinforced_oxidized_cut_copper_stairs
+    securitycraft:reinforced_packed_ice
+    securitycraft:reinforced_packed_mud
+    securitycraft:reinforced_pearlescent_froglight
+    securitycraft:reinforced_pink_carpet
+    securitycraft:reinforced_pink_concrete
+    securitycraft:reinforced_pink_glazed_terracotta
+    securitycraft:reinforced_pink_stained_glass
+    securitycraft:reinforced_pink_stained_glass_pane
+    securitycraft:reinforced_pink_terracotta
+    securitycraft:reinforced_pink_wool
+    securitycraft:reinforced_piston
+    securitycraft:reinforced_podzol
+    securitycraft:reinforced_polished_andesite
+    securitycraft:reinforced_polished_andesite_slab
+    securitycraft:reinforced_polished_andesite_stairs
+    securitycraft:reinforced_polished_basalt
+    securitycraft:reinforced_polished_blackstone
+    securitycraft:reinforced_polished_blackstone_brick_slab
+    securitycraft:reinforced_polished_blackstone_brick_stairs
+    securitycraft:reinforced_polished_blackstone_brick_wall
+    securitycraft:reinforced_polished_blackstone_bricks
+    securitycraft:reinforced_polished_blackstone_button
+    securitycraft:reinforced_polished_blackstone_pressure_plate
+    securitycraft:reinforced_polished_blackstone_slab
+    securitycraft:reinforced_polished_blackstone_stairs
+    securitycraft:reinforced_polished_blackstone_wall
+    securitycraft:reinforced_polished_deepslate
+    securitycraft:reinforced_polished_deepslate_slab
+    securitycraft:reinforced_polished_deepslate_stairs
+    securitycraft:reinforced_polished_deepslate_wall
+    securitycraft:reinforced_polished_diorite
+    securitycraft:reinforced_polished_diorite_slab
+    securitycraft:reinforced_polished_diorite_stairs
+    securitycraft:reinforced_polished_granite
+    securitycraft:reinforced_polished_granite_slab
+    securitycraft:reinforced_polished_granite_stairs
+    securitycraft:reinforced_prismarine
+    securitycraft:reinforced_prismarine_brick_slab
+    securitycraft:reinforced_prismarine_brick_stairs
+    securitycraft:reinforced_prismarine_bricks
+    securitycraft:reinforced_prismarine_slab
+    securitycraft:reinforced_prismarine_stairs
+    securitycraft:reinforced_prismarine_wall
+    securitycraft:reinforced_purple_carpet
+    securitycraft:reinforced_purple_concrete
+    securitycraft:reinforced_purple_glazed_terracotta
+    securitycraft:reinforced_purple_stained_glass
+    securitycraft:reinforced_purple_stained_glass_pane
+    securitycraft:reinforced_purple_terracotta
+    securitycraft:reinforced_purple_wool
+    securitycraft:reinforced_purpur_block
+    securitycraft:reinforced_purpur_pillar
+    securitycraft:reinforced_purpur_slab
+    securitycraft:reinforced_purpur_stairs
+    securitycraft:reinforced_quartz_block
+    securitycraft:reinforced_quartz_bricks
+    securitycraft:reinforced_quartz_pillar
+    securitycraft:reinforced_quartz_slab
+    securitycraft:reinforced_quartz_stairs
+    securitycraft:reinforced_raw_copper_block
+    securitycraft:reinforced_raw_gold_block
+    securitycraft:reinforced_raw_iron_block
+    securitycraft:reinforced_red_carpet
+    securitycraft:reinforced_red_concrete
+    securitycraft:reinforced_red_glazed_terracotta
+    securitycraft:reinforced_red_nether_brick_slab
+    securitycraft:reinforced_red_nether_brick_stairs
+    securitycraft:reinforced_red_nether_brick_wall
+    securitycraft:reinforced_red_nether_bricks
+    securitycraft:reinforced_red_sand
+    securitycraft:reinforced_red_sandstone
+    securitycraft:reinforced_red_sandstone_slab
+    securitycraft:reinforced_red_sandstone_stairs
+    securitycraft:reinforced_red_sandstone_wall
+    securitycraft:reinforced_red_stained_glass
+    securitycraft:reinforced_red_stained_glass_pane
+    securitycraft:reinforced_red_terracotta
+    securitycraft:reinforced_red_wool
+    securitycraft:reinforced_redstone_block
+    securitycraft:reinforced_redstone_lamp
+    securitycraft:reinforced_rooted_dirt
+    securitycraft:reinforced_sand
+    securitycraft:reinforced_sandstone
+    securitycraft:reinforced_sandstone_slab
+    securitycraft:reinforced_sandstone_stairs
+    securitycraft:reinforced_sandstone_wall
+    securitycraft:reinforced_scaffolding
+    securitycraft:reinforced_sea_lantern
+    securitycraft:reinforced_shroomlight
+    securitycraft:reinforced_smooth_basalt
+    securitycraft:reinforced_smooth_crystal_quartz
+    securitycraft:reinforced_smooth_crystal_quartz_slab
+    securitycraft:reinforced_smooth_crystal_quartz_stairs
+    securitycraft:reinforced_smooth_quartz
+    securitycraft:reinforced_smooth_quartz_slab
+    securitycraft:reinforced_smooth_quartz_stairs
+    securitycraft:reinforced_smooth_red_sandstone
+    securitycraft:reinforced_smooth_red_sandstone_slab
+    securitycraft:reinforced_smooth_red_sandstone_stairs
+    securitycraft:reinforced_smooth_sandstone
+    securitycraft:reinforced_smooth_sandstone_slab
+    securitycraft:reinforced_smooth_sandstone_stairs
+    securitycraft:reinforced_smooth_stone
+    securitycraft:reinforced_snow_block
+    securitycraft:reinforced_soul_lantern
+    securitycraft:reinforced_soul_sand
+    securitycraft:reinforced_soul_soil
+    securitycraft:reinforced_spruce_button
+    securitycraft:reinforced_spruce_fence
+    securitycraft:reinforced_spruce_fence_gate
+    securitycraft:reinforced_spruce_log
+    securitycraft:reinforced_spruce_planks
+    securitycraft:reinforced_spruce_pressure_plate
+    securitycraft:reinforced_spruce_slab
+    securitycraft:reinforced_spruce_stairs
+    securitycraft:reinforced_spruce_wood
+    securitycraft:reinforced_sticky_piston
+    securitycraft:reinforced_stone
+    securitycraft:reinforced_stone_brick_slab
+    securitycraft:reinforced_stone_brick_stairs
+    securitycraft:reinforced_stone_brick_wall
+    securitycraft:reinforced_stone_bricks
+    securitycraft:reinforced_stone_button
+    securitycraft:reinforced_stone_pressure_plate
+    securitycraft:reinforced_stone_slab
+    securitycraft:reinforced_stone_stairs
+    securitycraft:reinforced_stripped_acacia_log
+    securitycraft:reinforced_stripped_acacia_wood
+    securitycraft:reinforced_stripped_bamboo_block
+    securitycraft:reinforced_stripped_birch_log
+    securitycraft:reinforced_stripped_birch_wood
+    securitycraft:reinforced_stripped_cherry_log
+    securitycraft:reinforced_stripped_cherry_wood
+    securitycraft:reinforced_stripped_crimson_hyphae
+    securitycraft:reinforced_stripped_crimson_stem
+    securitycraft:reinforced_stripped_dark_oak_log
+    securitycraft:reinforced_stripped_dark_oak_wood
+    securitycraft:reinforced_stripped_jungle_log
+    securitycraft:reinforced_stripped_jungle_wood
+    securitycraft:reinforced_stripped_mangrove_log
+    securitycraft:reinforced_stripped_mangrove_wood
+    securitycraft:reinforced_stripped_oak_log
+    securitycraft:reinforced_stripped_oak_wood
+    securitycraft:reinforced_stripped_spruce_log
+    securitycraft:reinforced_stripped_spruce_wood
+    securitycraft:reinforced_stripped_warped_hyphae
+    securitycraft:reinforced_stripped_warped_stem
+    securitycraft:reinforced_tinted_glass
+    securitycraft:reinforced_tuff
+    securitycraft:reinforced_verdant_froglight
+    securitycraft:reinforced_warped_button
+    securitycraft:reinforced_warped_fence
+    securitycraft:reinforced_warped_fence_gate
+    securitycraft:reinforced_warped_hyphae
+    securitycraft:reinforced_warped_nylium
+    securitycraft:reinforced_warped_planks
+    securitycraft:reinforced_warped_pressure_plate
+    securitycraft:reinforced_warped_slab
+    securitycraft:reinforced_warped_stairs
+    securitycraft:reinforced_warped_stem
+    securitycraft:reinforced_warped_wart_block
+    securitycraft:reinforced_weathered_copper
+    securitycraft:reinforced_weathered_cut_copper
+    securitycraft:reinforced_weathered_cut_copper_slab
+    securitycraft:reinforced_weathered_cut_copper_stairs
+    securitycraft:reinforced_white_carpet
+    securitycraft:reinforced_white_concrete
+    securitycraft:reinforced_white_glazed_terracotta
+    securitycraft:reinforced_white_stained_glass
+    securitycraft:reinforced_white_stained_glass_pane
+    securitycraft:reinforced_white_terracotta
+    securitycraft:reinforced_white_wool
+    securitycraft:reinforced_yellow_carpet
+    securitycraft:reinforced_yellow_concrete
+    securitycraft:reinforced_yellow_glazed_terracotta
+    securitycraft:reinforced_yellow_stained_glass
+    securitycraft:reinforced_yellow_stained_glass_pane
+    securitycraft:reinforced_yellow_terracotta
+    securitycraft:reinforced_yellow_wool
+    securitycraft:remote_access_mine
+    securitycraft:remote_access_sentry
+    securitycraft:retinal_scanner
+    securitycraft:rift_stabilizer
+    securitycraft:sand_mine
+    securitycraft:sc_manual
+    securitycraft:scanner_door_item
+    securitycraft:scanner_trapdoor
+    securitycraft:secret_acacia_hanging_sign
+    securitycraft:secret_acacia_sign_item
+    securitycraft:secret_bamboo_hanging_sign
+    securitycraft:secret_bamboo_sign_item
+    securitycraft:secret_birch_hanging_sign
+    securitycraft:secret_birch_sign_item
+    securitycraft:secret_cherry_hanging_sign
+    securitycraft:secret_cherry_sign_item
+    securitycraft:secret_crimson_hanging_sign
+    securitycraft:secret_crimson_sign_item
+    securitycraft:secret_dark_oak_hanging_sign
+    securitycraft:secret_dark_oak_sign_item
+    securitycraft:secret_jungle_hanging_sign
+    securitycraft:secret_jungle_sign_item
+    securitycraft:secret_mangrove_hanging_sign
+    securitycraft:secret_mangrove_sign_item
+    securitycraft:secret_oak_hanging_sign
+    securitycraft:secret_sign_item
+    securitycraft:secret_spruce_hanging_sign
+    securitycraft:secret_spruce_sign_item
+    securitycraft:secret_warped_hanging_sign
+    securitycraft:secret_warped_sign_item
+    securitycraft:secure_redstone_interface
+    securitycraft:security_camera
+    securitycraft:sentry
+    securitycraft:smart_module
+    securitycraft:smoker_mine
+    securitycraft:smooth_crystal_quartz
+    securitycraft:smooth_crystal_quartz_slab
+    securitycraft:smooth_crystal_quartz_stairs
+    securitycraft:sonic_security_system
+    securitycraft:speed_module
+    securitycraft:spruce_security_sea_boat
+    securitycraft:stone_mine
+    securitycraft:storage_module
+    securitycraft:suspicious_gravel_mine
+    securitycraft:suspicious_sand_mine
+    securitycraft:taser
+    securitycraft:taser_powered
+    securitycraft:track_mine
+    securitycraft:trophy_system
+    securitycraft:universal_block_modifier
+    securitycraft:universal_block_reinforcer_lvl1
+    securitycraft:universal_block_reinforcer_lvl2
+    securitycraft:universal_block_reinforcer_lvl3
+    securitycraft:universal_block_remover
+    securitycraft:universal_key_changer
+    securitycraft:universal_owner_changer
+    securitycraft:username_logger
+    securitycraft:whitelist_module
+    securitycraft:wire_cutters
+
+Missing minecraft:potion:
+    apotheosis:absorption
+    apotheosis:extra_long_flying
+    apotheosis:fatigue
+    apotheosis:flying
+    apotheosis:grievous
+    apotheosis:haste
+    apotheosis:knowledge
+    apotheosis:levitation
+    apotheosis:long_absorption
+    apotheosis:long_fatigue
+    apotheosis:long_flying
+    apotheosis:long_grievous
+    apotheosis:long_haste
+    apotheosis:long_knowledge
+    apotheosis:long_resistance
+    apotheosis:long_sundering
+    apotheosis:long_vitality
+    apotheosis:long_wither
+    apotheosis:resistance
+    apotheosis:strong_absorption
+    apotheosis:strong_fatigue
+    apotheosis:strong_grievous
+    apotheosis:strong_haste
+    apotheosis:strong_knowledge
+    apotheosis:strong_resistance
+    apotheosis:strong_sundering
+    apotheosis:strong_vitality
+    apotheosis:strong_wither
+    apotheosis:sundering
+    apotheosis:vitality
+    apotheosis:wither
+
+Missing minecraft:block:
+    apotheosis:augmenting_table
+    apotheosis:beeshelf
+    apotheosis:blazing_hellshelf
+    apotheosis:boss_spawner
+    apotheosis:crystal_seashelf
+    apotheosis:deepshelf
+    apotheosis:dormant_deepshelf
+    apotheosis:draconic_endshelf
+    apotheosis:echoing_deepshelf
+    apotheosis:echoing_sculkshelf
+    apotheosis:ender_library
+    apotheosis:endshelf
+    apotheosis:filtering_shelf
+    apotheosis:gem_cutting_table
+    apotheosis:glowing_hellshelf
+    apotheosis:heart_seashelf
+    apotheosis:hellshelf
+    apotheosis:infused_hellshelf
+    apotheosis:infused_seashelf
+    apotheosis:library
+    apotheosis:melonshelf
+    apotheosis:pearl_endshelf
+    apotheosis:rectifier
+    apotheosis:rectifier_t2
+    apotheosis:rectifier_t3
+    apotheosis:reforging_table
+    apotheosis:salvaging_table
+    apotheosis:seashelf
+    apotheosis:sightshelf
+    apotheosis:sightshelf_t2
+    apotheosis:simple_reforging_table
+    apotheosis:soul_touched_deepshelf
+    apotheosis:soul_touched_sculkshelf
+    apotheosis:stoneshelf
+    apotheosis:treasure_shelf
+    securitycraft:alarm
+    securitycraft:ancient_debris_mine
+    securitycraft:blast_furnace_mine
+    securitycraft:block_change_detector
+    securitycraft:block_pocket_manager
+    securitycraft:block_pocket_wall
+    securitycraft:bouncing_betty
+    securitycraft:cage_trap
+    securitycraft:chiseled_crystal_quartz
+    securitycraft:claymore
+    securitycraft:coal_mine
+    securitycraft:cobbled_deepslate_mine
+    securitycraft:cobblestone_mine
+    securitycraft:copper_mine
+    securitycraft:crystal_quartz
+    securitycraft:crystal_quartz_bricks
+    securitycraft:crystal_quartz_pillar
+    securitycraft:crystal_quartz_slab
+    securitycraft:crystal_quartz_stairs
+    securitycraft:deepslate_coal_mine
+    securitycraft:deepslate_copper_mine
+    securitycraft:deepslate_diamond_mine
+    securitycraft:deepslate_emerald_mine
+    securitycraft:deepslate_gold_mine
+    securitycraft:deepslate_iron_mine
+    securitycraft:deepslate_lapis_mine
+    securitycraft:deepslate_mine
+    securitycraft:deepslate_redstone_mine
+    securitycraft:diamond_mine
+    securitycraft:dirt_mine
+    securitycraft:display_case
+    securitycraft:electrified_iron_fence
+    securitycraft:emerald_mine
+    securitycraft:end_stone_mine
+    securitycraft:fake_lava_block
+    securitycraft:fake_water_block
+    securitycraft:floor_trap
+    securitycraft:furnace_mine
+    securitycraft:gilded_blackstone_mine
+    securitycraft:glow_display_case
+    securitycraft:gold_mine
+    securitycraft:gravel_mine
+    securitycraft:horizontal_reinforced_iron_bars
+    securitycraft:ims
+    securitycraft:inventory_scanner
+    securitycraft:inventory_scanner_field
+    securitycraft:iron_door_reinforced
+    securitycraft:iron_mine
+    securitycraft:key_panel
+    securitycraft:keycard_lock
+    securitycraft:keycard_reader
+    securitycraft:keypad
+    securitycraft:keypad_barrel
+    securitycraft:keypad_blast_furnace
+    securitycraft:keypad_chest
+    securitycraft:keypad_door
+    securitycraft:keypad_frame
+    securitycraft:keypad_furnace
+    securitycraft:keypad_smoker
+    securitycraft:keypad_trapdoor
+    securitycraft:lapis_mine
+    securitycraft:laser
+    securitycraft:laser_block
+    securitycraft:mine
+    securitycraft:motion_activated_light
+    securitycraft:nether_gold_mine
+    securitycraft:netherrack_mine
+    securitycraft:panic_button
+    securitycraft:portable_radar
+    securitycraft:projector
+    securitycraft:protecto
+    securitycraft:quartz_mine
+    securitycraft:redstone_mine
+    securitycraft:reinforced_acacia_button
+    securitycraft:reinforced_acacia_fence
+    securitycraft:reinforced_acacia_fence_gate
+    securitycraft:reinforced_acacia_log
+    securitycraft:reinforced_acacia_planks
+    securitycraft:reinforced_acacia_pressure_plate
+    securitycraft:reinforced_acacia_slab
+    securitycraft:reinforced_acacia_stairs
+    securitycraft:reinforced_acacia_wood
+    securitycraft:reinforced_amethyst_block
+    securitycraft:reinforced_andesite
+    securitycraft:reinforced_andesite_slab
+    securitycraft:reinforced_andesite_stairs
+    securitycraft:reinforced_andesite_wall
+    securitycraft:reinforced_bamboo_block
+    securitycraft:reinforced_bamboo_button
+    securitycraft:reinforced_bamboo_fence
+    securitycraft:reinforced_bamboo_fence_gate
+    securitycraft:reinforced_bamboo_mosaic
+    securitycraft:reinforced_bamboo_mosaic_slab
+    securitycraft:reinforced_bamboo_mosaic_stairs
+    securitycraft:reinforced_bamboo_planks
+    securitycraft:reinforced_bamboo_pressure_plate
+    securitycraft:reinforced_bamboo_slab
+    securitycraft:reinforced_bamboo_stairs
+    securitycraft:reinforced_basalt
+    securitycraft:reinforced_birch_button
+    securitycraft:reinforced_birch_fence
+    securitycraft:reinforced_birch_fence_gate
+    securitycraft:reinforced_birch_log
+    securitycraft:reinforced_birch_planks
+    securitycraft:reinforced_birch_pressure_plate
+    securitycraft:reinforced_birch_slab
+    securitycraft:reinforced_birch_stairs
+    securitycraft:reinforced_birch_wood
+    securitycraft:reinforced_black_carpet
+    securitycraft:reinforced_black_concrete
+    securitycraft:reinforced_black_glazed_terracotta
+    securitycraft:reinforced_black_stained_glass
+    securitycraft:reinforced_black_stained_glass_pane
+    securitycraft:reinforced_black_terracotta
+    securitycraft:reinforced_black_wool
+    securitycraft:reinforced_blackstone
+    securitycraft:reinforced_blackstone_slab
+    securitycraft:reinforced_blackstone_stairs
+    securitycraft:reinforced_blackstone_wall
+    securitycraft:reinforced_blue_carpet
+    securitycraft:reinforced_blue_concrete
+    securitycraft:reinforced_blue_glazed_terracotta
+    securitycraft:reinforced_blue_ice
+    securitycraft:reinforced_blue_stained_glass
+    securitycraft:reinforced_blue_stained_glass_pane
+    securitycraft:reinforced_blue_terracotta
+    securitycraft:reinforced_blue_wool
+    securitycraft:reinforced_bone_block
+    securitycraft:reinforced_bookshelf
+    securitycraft:reinforced_brick_slab
+    securitycraft:reinforced_brick_stairs
+    securitycraft:reinforced_brick_wall
+    securitycraft:reinforced_bricks
+    securitycraft:reinforced_brown_carpet
+    securitycraft:reinforced_brown_concrete
+    securitycraft:reinforced_brown_glazed_terracotta
+    securitycraft:reinforced_brown_stained_glass
+    securitycraft:reinforced_brown_stained_glass_pane
+    securitycraft:reinforced_brown_terracotta
+    securitycraft:reinforced_brown_wool
+    securitycraft:reinforced_calcite
+    securitycraft:reinforced_cauldron
+    securitycraft:reinforced_chain
+    securitycraft:reinforced_cherry_button
+    securitycraft:reinforced_cherry_fence
+    securitycraft:reinforced_cherry_fence_gate
+    securitycraft:reinforced_cherry_log
+    securitycraft:reinforced_cherry_planks
+    securitycraft:reinforced_cherry_pressure_plate
+    securitycraft:reinforced_cherry_slab
+    securitycraft:reinforced_cherry_stairs
+    securitycraft:reinforced_cherry_wood
+    securitycraft:reinforced_chiseled_bookshelf
+    securitycraft:reinforced_chiseled_crystal_quartz_block
+    securitycraft:reinforced_chiseled_deepslate
+    securitycraft:reinforced_chiseled_nether_bricks
+    securitycraft:reinforced_chiseled_polished_blackstone
+    securitycraft:reinforced_chiseled_quartz_block
+    securitycraft:reinforced_chiseled_red_sandstone
+    securitycraft:reinforced_chiseled_sandstone
+    securitycraft:reinforced_chiseled_stone_bricks
+    securitycraft:reinforced_clay
+    securitycraft:reinforced_coal_block
+    securitycraft:reinforced_coarse_dirt
+    securitycraft:reinforced_cobbled_deepslate
+    securitycraft:reinforced_cobbled_deepslate_slab
+    securitycraft:reinforced_cobbled_deepslate_stairs
+    securitycraft:reinforced_cobbled_deepslate_wall
+    securitycraft:reinforced_cobblestone
+    securitycraft:reinforced_cobblestone_slab
+    securitycraft:reinforced_cobblestone_stairs
+    securitycraft:reinforced_cobblestone_wall
+    securitycraft:reinforced_cobweb
+    securitycraft:reinforced_copper_block
+    securitycraft:reinforced_cracked_deepslate_bricks
+    securitycraft:reinforced_cracked_deepslate_tiles
+    securitycraft:reinforced_cracked_nether_bricks
+    securitycraft:reinforced_cracked_polished_blackstone_bricks
+    securitycraft:reinforced_cracked_stone_bricks
+    securitycraft:reinforced_crimson_button
+    securitycraft:reinforced_crimson_fence
+    securitycraft:reinforced_crimson_fence_gate
+    securitycraft:reinforced_crimson_hyphae
+    securitycraft:reinforced_crimson_nylium
+    securitycraft:reinforced_crimson_planks
+    securitycraft:reinforced_crimson_pressure_plate
+    securitycraft:reinforced_crimson_slab
+    securitycraft:reinforced_crimson_stairs
+    securitycraft:reinforced_crimson_stem
+    securitycraft:reinforced_crying_obsidian
+    securitycraft:reinforced_crystal_quartz_block
+    securitycraft:reinforced_crystal_quartz_bricks
+    securitycraft:reinforced_crystal_quartz_pillar
+    securitycraft:reinforced_crystal_quartz_slab
+    securitycraft:reinforced_crystal_quartz_stairs
+    securitycraft:reinforced_cut_copper
+    securitycraft:reinforced_cut_copper_slab
+    securitycraft:reinforced_cut_copper_stairs
+    securitycraft:reinforced_cut_red_sandstone
+    securitycraft:reinforced_cut_red_sandstone_slab
+    securitycraft:reinforced_cut_sandstone
+    securitycraft:reinforced_cut_sandstone_slab
+    securitycraft:reinforced_cyan_carpet
+    securitycraft:reinforced_cyan_concrete
+    securitycraft:reinforced_cyan_glazed_terracotta
+    securitycraft:reinforced_cyan_stained_glass
+    securitycraft:reinforced_cyan_stained_glass_pane
+    securitycraft:reinforced_cyan_terracotta
+    securitycraft:reinforced_cyan_wool
+    securitycraft:reinforced_dark_oak_button
+    securitycraft:reinforced_dark_oak_fence
+    securitycraft:reinforced_dark_oak_fence_gate
+    securitycraft:reinforced_dark_oak_log
+    securitycraft:reinforced_dark_oak_planks
+    securitycraft:reinforced_dark_oak_pressure_plate
+    securitycraft:reinforced_dark_oak_slab
+    securitycraft:reinforced_dark_oak_stairs
+    securitycraft:reinforced_dark_oak_wood
+    securitycraft:reinforced_dark_prismarine
+    securitycraft:reinforced_dark_prismarine_slab
+    securitycraft:reinforced_dark_prismarine_stairs
+    securitycraft:reinforced_deepslate
+    securitycraft:reinforced_deepslate_brick_slab
+    securitycraft:reinforced_deepslate_brick_stairs
+    securitycraft:reinforced_deepslate_brick_wall
+    securitycraft:reinforced_deepslate_bricks
+    securitycraft:reinforced_deepslate_tile_slab
+    securitycraft:reinforced_deepslate_tile_stairs
+    securitycraft:reinforced_deepslate_tile_wall
+    securitycraft:reinforced_deepslate_tiles
+    securitycraft:reinforced_diamond_block
+    securitycraft:reinforced_diorite
+    securitycraft:reinforced_diorite_slab
+    securitycraft:reinforced_diorite_stairs
+    securitycraft:reinforced_diorite_wall
+    securitycraft:reinforced_dirt
+    securitycraft:reinforced_dispenser
+    securitycraft:reinforced_dripstone_block
+    securitycraft:reinforced_dropper
+    securitycraft:reinforced_emerald_block
+    securitycraft:reinforced_end_rod
+    securitycraft:reinforced_end_stone
+    securitycraft:reinforced_end_stone_brick_slab
+    securitycraft:reinforced_end_stone_brick_stairs
+    securitycraft:reinforced_end_stone_brick_wall
+    securitycraft:reinforced_end_stone_bricks
+    securitycraft:reinforced_exposed_copper
+    securitycraft:reinforced_exposed_cut_copper
+    securitycraft:reinforced_exposed_cut_copper_slab
+    securitycraft:reinforced_exposed_cut_copper_stairs
+    securitycraft:reinforced_fence_gate
+    securitycraft:reinforced_glass
+    securitycraft:reinforced_glass_pane
+    securitycraft:reinforced_glowstone
+    securitycraft:reinforced_gold_block
+    securitycraft:reinforced_granite
+    securitycraft:reinforced_granite_slab
+    securitycraft:reinforced_granite_stairs
+    securitycraft:reinforced_granite_wall
+    securitycraft:reinforced_grass_block
+    securitycraft:reinforced_grass_path
+    securitycraft:reinforced_gravel
+    securitycraft:reinforced_gray_carpet
+    securitycraft:reinforced_gray_concrete
+    securitycraft:reinforced_gray_glazed_terracotta
+    securitycraft:reinforced_gray_stained_glass
+    securitycraft:reinforced_gray_stained_glass_pane
+    securitycraft:reinforced_gray_terracotta
+    securitycraft:reinforced_gray_wool
+    securitycraft:reinforced_green_carpet
+    securitycraft:reinforced_green_concrete
+    securitycraft:reinforced_green_glazed_terracotta
+    securitycraft:reinforced_green_stained_glass
+    securitycraft:reinforced_green_stained_glass_pane
+    securitycraft:reinforced_green_terracotta
+    securitycraft:reinforced_green_wool
+    securitycraft:reinforced_hardened_clay
+    securitycraft:reinforced_hopper
+    securitycraft:reinforced_ice
+    securitycraft:reinforced_iron_bars
+    securitycraft:reinforced_iron_block
+    securitycraft:reinforced_iron_trapdoor
+    securitycraft:reinforced_jungle_button
+    securitycraft:reinforced_jungle_fence
+    securitycraft:reinforced_jungle_fence_gate
+    securitycraft:reinforced_jungle_log
+    securitycraft:reinforced_jungle_planks
+    securitycraft:reinforced_jungle_pressure_plate
+    securitycraft:reinforced_jungle_slab
+    securitycraft:reinforced_jungle_stairs
+    securitycraft:reinforced_jungle_wood
+    securitycraft:reinforced_ladder
+    securitycraft:reinforced_lantern
+    securitycraft:reinforced_lapis_block
+    securitycraft:reinforced_lava_cauldron
+    securitycraft:reinforced_lectern
+    securitycraft:reinforced_lever
+    securitycraft:reinforced_light_blue_carpet
+    securitycraft:reinforced_light_blue_concrete
+    securitycraft:reinforced_light_blue_glazed_terracotta
+    securitycraft:reinforced_light_blue_stained_glass
+    securitycraft:reinforced_light_blue_stained_glass_pane
+    securitycraft:reinforced_light_blue_terracotta
+    securitycraft:reinforced_light_blue_wool
+    securitycraft:reinforced_light_gray_carpet
+    securitycraft:reinforced_light_gray_concrete
+    securitycraft:reinforced_light_gray_glazed_terracotta
+    securitycraft:reinforced_light_gray_stained_glass
+    securitycraft:reinforced_light_gray_stained_glass_pane
+    securitycraft:reinforced_light_gray_terracotta
+    securitycraft:reinforced_light_gray_wool
+    securitycraft:reinforced_lime_carpet
+    securitycraft:reinforced_lime_concrete
+    securitycraft:reinforced_lime_glazed_terracotta
+    securitycraft:reinforced_lime_stained_glass
+    securitycraft:reinforced_lime_stained_glass_pane
+    securitycraft:reinforced_lime_terracotta
+    securitycraft:reinforced_lime_wool
+    securitycraft:reinforced_magenta_carpet
+    securitycraft:reinforced_magenta_concrete
+    securitycraft:reinforced_magenta_glazed_terracotta
+    securitycraft:reinforced_magenta_stained_glass
+    securitycraft:reinforced_magenta_stained_glass_pane
+    securitycraft:reinforced_magenta_terracotta
+    securitycraft:reinforced_magenta_wool
+    securitycraft:reinforced_magma_block
+    securitycraft:reinforced_mangrove_button
+    securitycraft:reinforced_mangrove_fence
+    securitycraft:reinforced_mangrove_fence_gate
+    securitycraft:reinforced_mangrove_log
+    securitycraft:reinforced_mangrove_planks
+    securitycraft:reinforced_mangrove_pressure_plate
+    securitycraft:reinforced_mangrove_slab
+    securitycraft:reinforced_mangrove_stairs
+    securitycraft:reinforced_mangrove_wood
+    securitycraft:reinforced_moss_block
+    securitycraft:reinforced_moss_carpet
+    securitycraft:reinforced_mossy_cobblestone
+    securitycraft:reinforced_mossy_cobblestone_slab
+    securitycraft:reinforced_mossy_cobblestone_stairs
+    securitycraft:reinforced_mossy_cobblestone_wall
+    securitycraft:reinforced_mossy_stone_brick_slab
+    securitycraft:reinforced_mossy_stone_brick_stairs
+    securitycraft:reinforced_mossy_stone_brick_wall
+    securitycraft:reinforced_mossy_stone_bricks
+    securitycraft:reinforced_moving_piston
+    securitycraft:reinforced_mud
+    securitycraft:reinforced_mud_brick_slab
+    securitycraft:reinforced_mud_brick_stairs
+    securitycraft:reinforced_mud_brick_wall
+    securitycraft:reinforced_mud_bricks
+    securitycraft:reinforced_mycelium
+    securitycraft:reinforced_nether_brick_fence
+    securitycraft:reinforced_nether_brick_slab
+    securitycraft:reinforced_nether_brick_stairs
+    securitycraft:reinforced_nether_brick_wall
+    securitycraft:reinforced_nether_bricks
+    securitycraft:reinforced_nether_wart_block
+    securitycraft:reinforced_netherite_block
+    securitycraft:reinforced_netherrack
+    securitycraft:reinforced_normal_stone_slab
+    securitycraft:reinforced_oak_button
+    securitycraft:reinforced_oak_fence
+    securitycraft:reinforced_oak_fence_gate
+    securitycraft:reinforced_oak_log
+    securitycraft:reinforced_oak_planks
+    securitycraft:reinforced_oak_pressure_plate
+    securitycraft:reinforced_oak_slab
+    securitycraft:reinforced_oak_stairs
+    securitycraft:reinforced_oak_wood
+    securitycraft:reinforced_observer
+    securitycraft:reinforced_obsidian
+    securitycraft:reinforced_ochre_froglight
+    securitycraft:reinforced_orange_carpet
+    securitycraft:reinforced_orange_concrete
+    securitycraft:reinforced_orange_glazed_terracotta
+    securitycraft:reinforced_orange_stained_glass
+    securitycraft:reinforced_orange_stained_glass_pane
+    securitycraft:reinforced_orange_terracotta
+    securitycraft:reinforced_orange_wool
+    securitycraft:reinforced_oxidized_copper
+    securitycraft:reinforced_oxidized_cut_copper
+    securitycraft:reinforced_oxidized_cut_copper_slab
+    securitycraft:reinforced_oxidized_cut_copper_stairs
+    securitycraft:reinforced_packed_ice
+    securitycraft:reinforced_packed_mud
+    securitycraft:reinforced_pearlescent_froglight
+    securitycraft:reinforced_pink_carpet
+    securitycraft:reinforced_pink_concrete
+    securitycraft:reinforced_pink_glazed_terracotta
+    securitycraft:reinforced_pink_stained_glass
+    securitycraft:reinforced_pink_stained_glass_pane
+    securitycraft:reinforced_pink_terracotta
+    securitycraft:reinforced_pink_wool
+    securitycraft:reinforced_piston
+    securitycraft:reinforced_piston_head
+    securitycraft:reinforced_podzol
+    securitycraft:reinforced_polished_andesite
+    securitycraft:reinforced_polished_andesite_slab
+    securitycraft:reinforced_polished_andesite_stairs
+    securitycraft:reinforced_polished_basalt
+    securitycraft:reinforced_polished_blackstone
+    securitycraft:reinforced_polished_blackstone_brick_slab
+    securitycraft:reinforced_polished_blackstone_brick_stairs
+    securitycraft:reinforced_polished_blackstone_brick_wall
+    securitycraft:reinforced_polished_blackstone_bricks
+    securitycraft:reinforced_polished_blackstone_button
+    securitycraft:reinforced_polished_blackstone_pressure_plate
+    securitycraft:reinforced_polished_blackstone_slab
+    securitycraft:reinforced_polished_blackstone_stairs
+    securitycraft:reinforced_polished_blackstone_wall
+    securitycraft:reinforced_polished_deepslate
+    securitycraft:reinforced_polished_deepslate_slab
+    securitycraft:reinforced_polished_deepslate_stairs
+    securitycraft:reinforced_polished_deepslate_wall
+    securitycraft:reinforced_polished_diorite
+    securitycraft:reinforced_polished_diorite_slab
+    securitycraft:reinforced_polished_diorite_stairs
+    securitycraft:reinforced_polished_granite
+    securitycraft:reinforced_polished_granite_slab
+    securitycraft:reinforced_polished_granite_stairs
+    securitycraft:reinforced_powder_snow_cauldron
+    securitycraft:reinforced_prismarine
+    securitycraft:reinforced_prismarine_brick_slab
+    securitycraft:reinforced_prismarine_brick_stairs
+    securitycraft:reinforced_prismarine_bricks
+    securitycraft:reinforced_prismarine_slab
+    securitycraft:reinforced_prismarine_stairs
+    securitycraft:reinforced_prismarine_wall
+    securitycraft:reinforced_purple_carpet
+    securitycraft:reinforced_purple_concrete
+    securitycraft:reinforced_purple_glazed_terracotta
+    securitycraft:reinforced_purple_stained_glass
+    securitycraft:reinforced_purple_stained_glass_pane
+    securitycraft:reinforced_purple_terracotta
+    securitycraft:reinforced_purple_wool
+    securitycraft:reinforced_purpur_block
+    securitycraft:reinforced_purpur_pillar
+    securitycraft:reinforced_purpur_slab
+    securitycraft:reinforced_purpur_stairs
+    securitycraft:reinforced_quartz_block
+    securitycraft:reinforced_quartz_bricks
+    securitycraft:reinforced_quartz_pillar
+    securitycraft:reinforced_quartz_slab
+    securitycraft:reinforced_quartz_stairs
+    securitycraft:reinforced_raw_copper_block
+    securitycraft:reinforced_raw_gold_block
+    securitycraft:reinforced_raw_iron_block
+    securitycraft:reinforced_red_carpet
+    securitycraft:reinforced_red_concrete
+    securitycraft:reinforced_red_glazed_terracotta
+    securitycraft:reinforced_red_nether_brick_slab
+    securitycraft:reinforced_red_nether_brick_stairs
+    securitycraft:reinforced_red_nether_brick_wall
+    securitycraft:reinforced_red_nether_bricks
+    securitycraft:reinforced_red_sand
+    securitycraft:reinforced_red_sandstone
+    securitycraft:reinforced_red_sandstone_slab
+    securitycraft:reinforced_red_sandstone_stairs
+    securitycraft:reinforced_red_sandstone_wall
+    securitycraft:reinforced_red_stained_glass
+    securitycraft:reinforced_red_stained_glass_pane
+    securitycraft:reinforced_red_terracotta
+    securitycraft:reinforced_red_wool
+    securitycraft:reinforced_redstone_block
+    securitycraft:reinforced_redstone_lamp
+    securitycraft:reinforced_rooted_dirt
+    securitycraft:reinforced_sand
+    securitycraft:reinforced_sandstone
+    securitycraft:reinforced_sandstone_slab
+    securitycraft:reinforced_sandstone_stairs
+    securitycraft:reinforced_sandstone_wall
+    securitycraft:reinforced_scaffolding
+    securitycraft:reinforced_sea_lantern
+    securitycraft:reinforced_shroomlight
+    securitycraft:reinforced_smooth_basalt
+    securitycraft:reinforced_smooth_crystal_quartz
+    securitycraft:reinforced_smooth_crystal_quartz_slab
+    securitycraft:reinforced_smooth_crystal_quartz_stairs
+    securitycraft:reinforced_smooth_quartz
+    securitycraft:reinforced_smooth_quartz_slab
+    securitycraft:reinforced_smooth_quartz_stairs
+    securitycraft:reinforced_smooth_red_sandstone
+    securitycraft:reinforced_smooth_red_sandstone_slab
+    securitycraft:reinforced_smooth_red_sandstone_stairs
+    securitycraft:reinforced_smooth_sandstone
+    securitycraft:reinforced_smooth_sandstone_slab
+    securitycraft:reinforced_smooth_sandstone_stairs
+    securitycraft:reinforced_smooth_stone
+    securitycraft:reinforced_snow_block
+    securitycraft:reinforced_soul_lantern
+    securitycraft:reinforced_soul_sand
+    securitycraft:reinforced_soul_soil
+    securitycraft:reinforced_spruce_button
+    securitycraft:reinforced_spruce_fence
+    securitycraft:reinforced_spruce_fence_gate
+    securitycraft:reinforced_spruce_log
+    securitycraft:reinforced_spruce_planks
+    securitycraft:reinforced_spruce_pressure_plate
+    securitycraft:reinforced_spruce_slab
+    securitycraft:reinforced_spruce_stairs
+    securitycraft:reinforced_spruce_wood
+    securitycraft:reinforced_sticky_piston
+    securitycraft:reinforced_stone
+    securitycraft:reinforced_stone_brick_slab
+    securitycraft:reinforced_stone_brick_stairs
+    securitycraft:reinforced_stone_brick_wall
+    securitycraft:reinforced_stone_bricks
+    securitycraft:reinforced_stone_button
+    securitycraft:reinforced_stone_pressure_plate
+    securitycraft:reinforced_stone_slab
+    securitycraft:reinforced_stone_stairs
+    securitycraft:reinforced_stripped_acacia_log
+    securitycraft:reinforced_stripped_acacia_wood
+    securitycraft:reinforced_stripped_bamboo_block
+    securitycraft:reinforced_stripped_birch_log
+    securitycraft:reinforced_stripped_birch_wood
+    securitycraft:reinforced_stripped_cherry_log
+    securitycraft:reinforced_stripped_cherry_wood
+    securitycraft:reinforced_stripped_crimson_hyphae
+    securitycraft:reinforced_stripped_crimson_stem
+    securitycraft:reinforced_stripped_dark_oak_log
+    securitycraft:reinforced_stripped_dark_oak_wood
+    securitycraft:reinforced_stripped_jungle_log
+    securitycraft:reinforced_stripped_jungle_wood
+    securitycraft:reinforced_stripped_mangrove_log
+    securitycraft:reinforced_stripped_mangrove_wood
+    securitycraft:reinforced_stripped_oak_log
+    securitycraft:reinforced_stripped_oak_wood
+    securitycraft:reinforced_stripped_spruce_log
+    securitycraft:reinforced_stripped_spruce_wood
+    securitycraft:reinforced_stripped_warped_hyphae
+    securitycraft:reinforced_stripped_warped_stem
+    securitycraft:reinforced_tinted_glass
+    securitycraft:reinforced_tuff
+    securitycraft:reinforced_verdant_froglight
+    securitycraft:reinforced_warped_button
+    securitycraft:reinforced_warped_fence
+    securitycraft:reinforced_warped_fence_gate
+    securitycraft:reinforced_warped_hyphae
+    securitycraft:reinforced_warped_nylium
+    securitycraft:reinforced_warped_planks
+    securitycraft:reinforced_warped_pressure_plate
+    securitycraft:reinforced_warped_slab
+    securitycraft:reinforced_warped_stairs
+    securitycraft:reinforced_warped_stem
+    securitycraft:reinforced_warped_wart_block
+    securitycraft:reinforced_water_cauldron
+    securitycraft:reinforced_weathered_copper
+    securitycraft:reinforced_weathered_cut_copper
+    securitycraft:reinforced_weathered_cut_copper_slab
+    securitycraft:reinforced_weathered_cut_copper_stairs
+    securitycraft:reinforced_white_carpet
+    securitycraft:reinforced_white_concrete
+    securitycraft:reinforced_white_glazed_terracotta
+    securitycraft:reinforced_white_stained_glass
+    securitycraft:reinforced_white_stained_glass_pane
+    securitycraft:reinforced_white_terracotta
+    securitycraft:reinforced_white_wool
+    securitycraft:reinforced_yellow_carpet
+    securitycraft:reinforced_yellow_concrete
+    securitycraft:reinforced_yellow_glazed_terracotta
+    securitycraft:reinforced_yellow_stained_glass
+    securitycraft:reinforced_yellow_stained_glass_pane
+    securitycraft:reinforced_yellow_terracotta
+    securitycraft:reinforced_yellow_wool
+    securitycraft:retinal_scanner
+    securitycraft:rift_stabilizer
+    securitycraft:sand_mine
+    securitycraft:scanner_door
+    securitycraft:scanner_trapdoor
+    securitycraft:secret_acacia_hanging_sign
+    securitycraft:secret_acacia_sign_standing
+    securitycraft:secret_acacia_sign_wall
+    securitycraft:secret_acacia_wall_hanging_sign
+    securitycraft:secret_bamboo_hanging_sign
+    securitycraft:secret_bamboo_sign_standing
+    securitycraft:secret_bamboo_sign_wall
+    securitycraft:secret_bamboo_wall_hanging_sign
+    securitycraft:secret_birch_hanging_sign
+    securitycraft:secret_birch_sign_standing
+    securitycraft:secret_birch_sign_wall
+    securitycraft:secret_birch_wall_hanging_sign
+    securitycraft:secret_cherry_hanging_sign
+    securitycraft:secret_cherry_sign_standing
+    securitycraft:secret_cherry_sign_wall
+    securitycraft:secret_cherry_wall_hanging_sign
+    securitycraft:secret_crimson_hanging_sign
+    securitycraft:secret_crimson_sign_standing
+    securitycraft:secret_crimson_sign_wall
+    securitycraft:secret_crimson_wall_hanging_sign
+    securitycraft:secret_dark_oak_hanging_sign
+    securitycraft:secret_dark_oak_sign_standing
+    securitycraft:secret_dark_oak_sign_wall
+    securitycraft:secret_dark_oak_wall_hanging_sign
+    securitycraft:secret_jungle_hanging_sign
+    securitycraft:secret_jungle_sign_standing
+    securitycraft:secret_jungle_sign_wall
+    securitycraft:secret_jungle_wall_hanging_sign
+    securitycraft:secret_mangrove_hanging_sign
+    securitycraft:secret_mangrove_sign_standing
+    securitycraft:secret_mangrove_sign_wall
+    securitycraft:secret_mangrove_wall_hanging_sign
+    securitycraft:secret_oak_hanging_sign
+    securitycraft:secret_oak_wall_hanging_sign
+    securitycraft:secret_sign_standing
+    securitycraft:secret_sign_wall
+    securitycraft:secret_spruce_hanging_sign
+    securitycraft:secret_spruce_sign_standing
+    securitycraft:secret_spruce_sign_wall
+    securitycraft:secret_spruce_wall_hanging_sign
+    securitycraft:secret_warped_hanging_sign
+    securitycraft:secret_warped_sign_standing
+    securitycraft:secret_warped_sign_wall
+    securitycraft:secret_warped_wall_hanging_sign
+    securitycraft:secure_redstone_interface
+    securitycraft:security_camera
+    securitycraft:sentry_disguise
+    securitycraft:smoker_mine
+    securitycraft:smooth_crystal_quartz
+    securitycraft:smooth_crystal_quartz_slab
+    securitycraft:smooth_crystal_quartz_stairs
+    securitycraft:sonic_security_system
+    securitycraft:stone_mine
+    securitycraft:suspicious_gravel_mine
+    securitycraft:suspicious_sand_mine
+    securitycraft:track_mine
+    securitycraft:trophy_system
+    securitycraft:username_logger
+
+Missing minecraft:mob_effect:
+    attributeslib:bleeding
+    attributeslib:detonation
+    attributeslib:flying
+    attributeslib:grievous
+    attributeslib:knowledge
+    attributeslib:sundering
+    attributeslib:vitality
+
+Missing minecraft:enchantment:
+    apotheosis:bane_of_illagers
+    apotheosis:berserkers_fury
+    apotheosis:capturing
+    apotheosis:chainsaw
+    apotheosis:chromatic
+    apotheosis:crescendo
+    apotheosis:earths_boon
+    apotheosis:endless_quiver
+    apotheosis:exploitation
+    apotheosis:growth_serum
+    apotheosis:icy_thorns
+    apotheosis:infusion
+    apotheosis:knowledge
+    apotheosis:life_mending
+    apotheosis:miners_fervor
+    apotheosis:natures_blessing
+    apotheosis:obliteration
+    apotheosis:rebounding
+    apotheosis:reflective
+    apotheosis:scavenger
+    apotheosis:shield_bash
+    apotheosis:spearfishing
+    apotheosis:splitting
+    apotheosis:stable_footing
+    apotheosis:tempting
+
+Missing minecraft:fluid:
+    securitycraft:fake_lava
+    securitycraft:fake_water
+    securitycraft:flowing_fake_lava
+    securitycraft:flowing_fake_water
+
+Missing minecraft:entity_type:
+    apotheosis:broadhead_arrow
+    apotheosis:explosive_arrow
+    apotheosis:mining_arrow
+    apotheosis:obsidian_arrow
+    securitycraft:bouncingbetty
+    securitycraft:bullet
+    securitycraft:imsbomb
+    securitycraft:security_sea_boat
+    securitycraft:securitycamera
+    securitycraft:sentry
+
+
+[11Apr2025 02:09:52.259] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: There are unidentified mappings in this world - we are going to attempt to process anyway
+[11Apr2025 02:09:52.813] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/RATALAND2025/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/assets/.mcassetsroot' uses unexpected schema
+[11Apr2025 02:09:52.813] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/RATALAND2025/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/data/.mcassetsroot' uses unexpected schema
+[11Apr2025 02:09:52.870] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:attributeslib
+[11Apr2025 02:09:52.870] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:enchdesc
+[11Apr2025 02:09:52.871] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:bookshelf
+[11Apr2025 02:09:52.871] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:jade
+[11Apr2025 02:09:52.871] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:apotheosis
+[11Apr2025 02:09:52.873] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:architectury
+[11Apr2025 02:09:52.874] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:jei
+[11Apr2025 02:09:52.874] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:cloth_config
+[11Apr2025 02:09:52.874] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:appleskin
+[11Apr2025 02:09:52.875] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:curios
+[11Apr2025 02:09:52.875] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:patchouli
+[11Apr2025 02:09:52.875] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:placebo
+[11Apr2025 02:09:52.877] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:securitycraft
+[11Apr2025 02:09:54.516] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[11Apr2025 02:09:54.651] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
+[11Apr2025 02:09:55.070] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[11Apr2025 02:09:55.071] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[11Apr2025 02:09:55.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[11Apr2025 02:09:55.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[11Apr2025 02:09:55.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[11Apr2025 02:09:55.238] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[11Apr2025 02:09:55.388] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[11Apr2025 02:09:58.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[11Apr2025 02:10:01.506] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Apr2025 02:10:01.507] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Apr2025 02:10:01.507] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Apr2025 02:10:01.508] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Apr2025 02:10:01.508] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Apr2025 02:10:01.508] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Apr2025 02:10:01.509] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Apr2025 02:10:01.913] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 7%
+[11Apr2025 02:10:02.063] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'attributeslib:mining_speed'
+[11Apr2025 02:10:02.414] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 71%
+[11Apr2025 02:10:02.594] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4181 ms
+[11Apr2025 02:10:02.595] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (7.250s)! For help, type "help"
+[11Apr2025 02:10:02.611] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[11Apr2025 02:10:21.759] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player KATZUO56 is aad38ace-8d49-4cb4-a8ad-db93502be401
+[11Apr2025 02:10:23.589] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'apotheosis:give_book' in progress file ./world/advancements/aad38ace-8d49-4cb4-a8ad-db93502be401.json - it doesn't exist anymore?
+[11Apr2025 02:10:23.599] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'attributeslib:creative_flight'
+[11Apr2025 02:10:23.602] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KATZUO56[/100.64.135.22:53467] logged in with entity id 225 at (29.539714156499972, 67.0, 83.85783077099823)
+[11Apr2025 02:10:23.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KATZUO56 joined the game
+[11Apr2025 02:10:36.700] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=233, y=-34, z=130} but found not block entity block Block{minecraft:air} at location
+[11Apr2025 02:10:36.700] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=233, y=-34, z=130}
+[11Apr2025 02:18:06.876] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=239, y=-10, z=-81} but found not block entity block Block{minecraft:air} at location
+[11Apr2025 02:18:06.877] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=239, y=-10, z=-81}
+[11Apr2025 02:18:28.980] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: apotheosis:tower_sand
+[11Apr2025 02:18:54.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KATZUO56 was shot by Skeleton
