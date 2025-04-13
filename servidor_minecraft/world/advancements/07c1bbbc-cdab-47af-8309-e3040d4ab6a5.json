@@ -540,6 +540,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-04-13 22:18:32 +0000",
+      "minecraft:spider": "2025-04-13 23:07:09 +0000",
       "minecraft:creeper": "2025-04-13 21:25:01 +0000",
       "minecraft:zombie": "2025-04-13 21:01:10 +0000",
       "minecraft:drowned": "2025-04-13 21:01:18 +0000"
@@ -2626,6 +2627,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-04-13 23:04:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2025-04-13 23:06:54 +0000"
     },
     "done": true
   },
