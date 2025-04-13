@@ -1232,3 +1232,60 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:turntable'
 [13Apr2025 21:11:42.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KATZUO56 has made the advancement [Getting an Upgrade]
 [13Apr2025 21:13:16.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GPS_MEJOR has made the advancement [Sweet Dreams]
 [13Apr2025 21:13:19.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KATZUO56 has made the advancement [Sweet Dreams]
+[13Apr2025 21:15:35.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GPS_MEJOR was turned into gorgonzola by Gorgon
+[13Apr2025 21:15:38.167] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Apr2025 21:15:38.167] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[13Apr2025 21:16:01.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GPS_MEJOR was turned into gorgonzola by Gorgon
+[13Apr2025 21:16:02.831] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Apr2025 21:16:02.831] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[13Apr2025 21:16:23.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GPS_MEJOR was turned into gorgonzola by Gorgon
+[13Apr2025 21:16:24.468] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Apr2025 21:16:24.468] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[13Apr2025 21:16:42.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KATZUO56 was turned to stone by Gorgon
+[13Apr2025 21:16:43.334] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Apr2025 21:16:43.335] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[13Apr2025 21:17:06.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KATZUO56 was turned to stone by GPS_MEJOR
+[13Apr2025 21:17:07.379] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Apr2025 21:17:07.379] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[13Apr2025 21:17:46.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KATZUO56 was turned into gorgonzola by Gorgon
+[13Apr2025 21:17:47.732] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Apr2025 21:17:47.732] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[13Apr2025 21:17:55.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GPS_MEJOR was turned to stone by Gorgon
+[13Apr2025 21:17:57.692] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Apr2025 21:17:57.692] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[13Apr2025 21:18:22.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KATZUO56 has made the advancement [Clash of the Titans]
+[13Apr2025 21:25:26.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KATZUO56> hili
+[13Apr2025 21:26:21.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GPS_MEJOR has made the advancement [Who You Gonna Call?]
+[13Apr2025 21:26:38.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GPS_MEJOR has made the advancement [Acquire Hardware]
+[13Apr2025 21:30:17.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KATZUO56 has made the advancement [Who You Gonna Call?]
+[13Apr2025 21:34:14.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KATZUO56 has made the advancement [Odd Looking Rocks]
+[13Apr2025 21:34:18.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GPS_MEJOR has made the advancement [Odd Looking Rocks]
+[13Apr2025 21:34:19.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GPS_MEJOR has made the advancement [The Desert Swimmers]
+[13Apr2025 21:34:20.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GPS_MEJOR has made the advancement [Paul Atreides]
+[13Apr2025 21:39:42.545] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GPS_MEJOR moved too quickly! 2.8081533952802147,0.6872744263476562,9.639148368152405
+[13Apr2025 21:39:46.548] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 07c1bbbc-cdab-47af-8309-e3040d4ab6a5 timed out
+[13Apr2025 21:39:46.549] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player GPS_MEJOR
+[13Apr2025 21:39:46.549] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to GPS_MEJOR
+[13Apr2025 21:39:46.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GPS_MEJOR was kicked for floating too long!
+[13Apr2025 21:39:46.570] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GPS_MEJOR lost connection: Flying is not enabled on this server
+[13Apr2025 21:39:46.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GPS_MEJOR left the game
+[13Apr2025 21:39:46.570] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client GPS_MEJOR
+[13Apr2025 21:39:46.634] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[13Apr2025 21:39:50.229] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player GPS_MEJOR is 07c1bbbc-cdab-47af-8309-e3040d4ab6a5
+[13Apr2025 21:39:52.428] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GPS_MEJOR[/100.71.249.58:50115] logged in with entity id 15221 at (-702.5168549714227, 73.97130044572782, -617.3110321006455)
+[13Apr2025 21:39:52.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GPS_MEJOR joined the game
+[13Apr2025 21:39:52.513] [Server thread/INFO] [Jade/]: Syncing config to GPS_MEJOR (07c1bbbc-cdab-47af-8309-e3040d4ab6a5)
+[13Apr2025 21:39:52.620] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of GPS_MEJOR (18)
+[13Apr2025 21:39:52.621] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to GPS_MEJOR
+[13Apr2025 21:39:55.517] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 07c1bbbc-cdab-47af-8309-e3040d4ab6a5
+[13Apr2025 21:39:56.518] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 07c1bbbc-cdab-47af-8309-e3040d4ab6a5
+[13Apr2025 21:39:56.518] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player GPS_MEJOR (07c1bbbc-cdab-47af-8309-e3040d4ab6a5) successfully connected to voice chat
+[13Apr2025 21:41:25.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GPS_MEJOR has made the advancement [Getting an Upgrade]
+[13Apr2025 21:43:19.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GPS_MEJOR has made the advancement [Diamonds!]
+[13Apr2025 21:43:23.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GPS_MEJOR has made the advancement [Not a Diamond]
+[13Apr2025 21:43:31.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KATZUO56 has made the advancement [Not a Diamond]
+[13Apr2025 21:48:38.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KATZUO56 has made the advancement [Best Friends Forever]
+[13Apr2025 21:48:38.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KATZUO56 has made the advancement [Free Willy]
+[13Apr2025 21:51:00.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KATZUO56 has made the advancement [Acquire Hardware]
+[13Apr2025 21:52:24.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KATZUO56 has made the advancement [Sunken City]
+[13Apr2025 21:52:38.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GPS_MEJOR has made the advancement [Sunken City]
