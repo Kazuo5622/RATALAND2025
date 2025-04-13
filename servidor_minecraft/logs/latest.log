@@ -1310,3 +1310,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:turntable'
 [13Apr2025 22:24:20.153] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2987, y=61, z=192} BlockPos{x=-2986, y=62, z=191}
 [13Apr2025 22:25:16.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GPS_MEJOR has made the advancement [My Name is Nobody]
 [13Apr2025 22:28:28.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GPS_MEJOR has made the advancement [Far From Perfect]
+[13Apr2025 22:47:58.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GPS_MEJOR has made the advancement [Sneak 100]
+[13Apr2025 22:48:06.268] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GPS_MEJOR lost connection: Disconnected
+[13Apr2025 22:48:06.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GPS_MEJOR left the game
+[13Apr2025 22:48:06.269] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client GPS_MEJOR
+[13Apr2025 22:49:25.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KATZUO56 has made the advancement [Chest Slayer]
+[13Apr2025 22:49:27.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KATZUO56 has made the advancement [Amateur Archaeologist]
+[13Apr2025 22:54:14.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KATZUO56 has made the advancement [Suit Up]
+[13Apr2025 22:54:14.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KATZUO56 has made the advancement [Apothic Affixes]
+[13Apr2025 22:54:14.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KATZUO56 has reached the goal [Worthy Equipment]
+[13Apr2025 22:54:14.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KATZUO56 has made the advancement [How'd You Get This?]
+[13Apr2025 22:55:30.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KATZUO56 has made the advancement [Isn't It Iron Pick]
+[13Apr2025 22:58:15.124] [User Authenticator #12/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player GPS_MEJOR is 07c1bbbc-cdab-47af-8309-e3040d4ab6a5
+[13Apr2025 22:58:17.333] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GPS_MEJOR[/100.71.249.58:52095] logged in with entity id 43654 at (-3142.387637741268, -49.0, 33.45612881294368)
+[13Apr2025 22:58:17.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GPS_MEJOR joined the game
+[13Apr2025 22:58:17.417] [Server thread/INFO] [Jade/]: Syncing config to GPS_MEJOR (07c1bbbc-cdab-47af-8309-e3040d4ab6a5)
+[13Apr2025 22:58:17.475] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of GPS_MEJOR (18)
+[13Apr2025 22:58:17.475] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to GPS_MEJOR
+[13Apr2025 22:58:20.564] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 07c1bbbc-cdab-47af-8309-e3040d4ab6a5
+[13Apr2025 22:58:21.565] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 07c1bbbc-cdab-47af-8309-e3040d4ab6a5
+[13Apr2025 22:58:21.565] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player GPS_MEJOR (07c1bbbc-cdab-47af-8309-e3040d4ab6a5) successfully connected to voice chat
+[13Apr2025 23:04:18.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GPS_MEJOR has made the advancement [Suit Up]
+[13Apr2025 23:04:19.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GPS_MEJOR has made the advancement [Isn't It Iron Pick]
