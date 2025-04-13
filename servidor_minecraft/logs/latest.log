@@ -1180,3 +1180,55 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:turntable'
 [13Apr2025 20:59:44.307] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
 [13Apr2025 20:59:44.308] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
 [13Apr2025 21:01:10.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GPS_MEJOR has made the advancement [Monster Hunter]
+[13Apr2025 21:08:37.167] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
+[13Apr2025 21:08:37.167] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
+[13Apr2025 21:08:37.200] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
+[13Apr2025 21:08:37.200] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
+[13Apr2025 21:08:37.200] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
+[13Apr2025 21:08:37.201] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
+[13Apr2025 21:08:37.201] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
+[13Apr2025 21:08:37.247] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-50, z=-279}
+[13Apr2025 21:08:37.247] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-57, z=-280}
+[13Apr2025 21:08:37.364] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[13Apr2025 21:08:37.387] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
+[13Apr2025 21:08:37.387] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
+[13Apr2025 21:08:37.388] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
+[13Apr2025 21:08:37.388] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
+[13Apr2025 21:08:37.403] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=-56, z=-275}
+[13Apr2025 21:08:44.229] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[13Apr2025 21:08:44.240] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
+[13Apr2025 21:08:44.241] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
+[13Apr2025 21:08:44.241] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
+[13Apr2025 21:08:44.241] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
+[13Apr2025 21:08:44.257] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-423, y=-50, z=-211}
+[13Apr2025 21:08:44.268] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
+[13Apr2025 21:08:44.268] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
+[13Apr2025 21:08:44.268] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
+[13Apr2025 21:08:44.269] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
+[13Apr2025 21:08:44.269] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
+[13Apr2025 21:08:44.271] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
+[13Apr2025 21:08:44.271] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
+[13Apr2025 21:08:44.282] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=-57, z=-281}
+[13Apr2025 21:08:44.283] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-56, z=-283}
+[13Apr2025 21:08:44.283] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-57, z=-283}
+[13Apr2025 21:08:52.616] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GPS_MEJOR lost connection: Disconnected
+[13Apr2025 21:08:52.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GPS_MEJOR left the game
+[13Apr2025 21:08:52.617] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client GPS_MEJOR
+[13Apr2025 21:08:54.825] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6be5e685[id=<null>,name=GPS_MEJOR,properties={},legacy=false] (/100.71.249.58:65302) lost connection: Disconnected
+[13Apr2025 21:08:56.563] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3b049157[id=<null>,name=GPS_MEJOR,properties={},legacy=false] (/100.71.249.58:65304) lost connection: Disconnected
+[13Apr2025 21:08:58.615] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player GPS_MEJOR is 07c1bbbc-cdab-47af-8309-e3040d4ab6a5
+[13Apr2025 21:09:00.824] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GPS_MEJOR[/100.71.249.58:65307] logged in with entity id 5271 at (-314.4793879946191, 70.0, 69.8251235395824)
+[13Apr2025 21:09:00.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GPS_MEJOR joined the game
+[13Apr2025 21:09:00.899] [Server thread/INFO] [Jade/]: Syncing config to GPS_MEJOR (07c1bbbc-cdab-47af-8309-e3040d4ab6a5)
+[13Apr2025 21:09:00.936] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of GPS_MEJOR (18)
+[13Apr2025 21:09:00.937] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to GPS_MEJOR
+[13Apr2025 21:09:03.992] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 07c1bbbc-cdab-47af-8309-e3040d4ab6a5
+[13Apr2025 21:09:04.993] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 07c1bbbc-cdab-47af-8309-e3040d4ab6a5
+[13Apr2025 21:09:04.993] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player GPS_MEJOR (07c1bbbc-cdab-47af-8309-e3040d4ab6a5) successfully connected to voice chat
+[13Apr2025 21:10:25.407] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[13Apr2025 21:10:25.408] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[13Apr2025 21:10:43.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GPS_MEJOR has made the advancement [Stone Age]
+[13Apr2025 21:10:56.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KATZUO56 has made the advancement [Stone Age]
+[13Apr2025 21:11:42.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KATZUO56 has made the advancement [Getting an Upgrade]
+[13Apr2025 21:13:16.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GPS_MEJOR has made the advancement [Sweet Dreams]
+[13Apr2025 21:13:19.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KATZUO56 has made the advancement [Sweet Dreams]
