@@ -1340,3 +1340,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:turntable'
 [13Apr2025 23:20:20.769] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
 [13Apr2025 23:20:20.769] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
 [13Apr2025 23:21:38.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KATZUO56> Y ESE?
+[13Apr2025 23:26:49.572] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity NecromancerEntity['Father Jeb the Legendary'/47172, l='ServerLevel[world]', x=-3207.30, y=-26.00, z=0.70] died: Father Jeb the Legendary was slain by GPS_MEJOR
+[13Apr2025 23:27:05.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KATZUO56 has completed the challenge [He Wasn't So Strong]
+[13Apr2025 23:32:50.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KATZUO56 has made the advancement [Diamonds!]
