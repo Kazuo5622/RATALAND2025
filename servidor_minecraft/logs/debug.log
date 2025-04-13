@@ -7756,3 +7756,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:turntable'
 [13Apr2025 23:09:53.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [13Apr2025 23:14:53.141] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Apr2025 23:14:53.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 23:17:25.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KATZUO56> vibraniummmm
+[13Apr2025 23:18:50.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KATZUO56> es con diamante
+[13Apr2025 23:19:53.136] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 23:19:53.146] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 23:20:10.409] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[13Apr2025 23:20:10.409] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[13Apr2025 23:20:20.769] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[13Apr2025 23:20:20.769] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[13Apr2025 23:21:38.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KATZUO56> Y ESE?
+[13Apr2025 23:23:12.879] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[13Apr2025 23:23:14.981] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[13Apr2025 23:24:53.138] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 23:24:53.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

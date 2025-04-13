@@ -1333,3 +1333,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:turntable'
 [13Apr2025 23:04:18.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GPS_MEJOR has made the advancement [Suit Up]
 [13Apr2025 23:04:19.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GPS_MEJOR has made the advancement [Isn't It Iron Pick]
 [13Apr2025 23:07:06.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KATZUO56> HELEEEEEEEEEEEEEE
+[13Apr2025 23:17:25.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KATZUO56> vibraniummmm
+[13Apr2025 23:18:50.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KATZUO56> es con diamante
+[13Apr2025 23:20:10.409] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[13Apr2025 23:20:10.409] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[13Apr2025 23:20:20.769] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[13Apr2025 23:20:20.769] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[13Apr2025 23:21:38.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KATZUO56> Y ESE?
