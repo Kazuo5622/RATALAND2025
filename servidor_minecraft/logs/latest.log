@@ -1144,3 +1144,39 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:turntable'
 [13Apr2025 20:53:44.664] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GPS_MEJOR lost connection: Disconnected
 [13Apr2025 20:53:44.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GPS_MEJOR left the game
 [13Apr2025 20:53:44.665] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client GPS_MEJOR
+[13Apr2025 20:55:07.784] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player GPS_MEJOR is 07c1bbbc-cdab-47af-8309-e3040d4ab6a5
+[13Apr2025 20:55:10.274] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GPS_MEJOR[/100.71.249.58:64745] logged in with entity id 2430 at (-35.453088672308155, 63.0, 39.26208525713092)
+[13Apr2025 20:55:10.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GPS_MEJOR joined the game
+[13Apr2025 20:55:10.358] [Server thread/INFO] [Jade/]: Syncing config to GPS_MEJOR (07c1bbbc-cdab-47af-8309-e3040d4ab6a5)
+[13Apr2025 20:55:10.395] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of GPS_MEJOR (18)
+[13Apr2025 20:55:10.397] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to GPS_MEJOR
+[13Apr2025 20:55:14.164] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 07c1bbbc-cdab-47af-8309-e3040d4ab6a5
+[13Apr2025 20:55:15.164] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 07c1bbbc-cdab-47af-8309-e3040d4ab6a5
+[13Apr2025 20:55:15.165] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player GPS_MEJOR (07c1bbbc-cdab-47af-8309-e3040d4ab6a5) successfully connected to voice chat
+[13Apr2025 20:56:12.812] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GPS_MEJOR lost connection: Disconnected
+[13Apr2025 20:56:12.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GPS_MEJOR left the game
+[13Apr2025 20:56:12.813] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client GPS_MEJOR
+[13Apr2025 20:57:20.317] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player GPS_MEJOR is 07c1bbbc-cdab-47af-8309-e3040d4ab6a5
+[13Apr2025 20:57:22.570] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GPS_MEJOR[/100.71.249.58:64994] logged in with entity id 2667 at (-34.71433025962576, 63.0, 39.73841293809839)
+[13Apr2025 20:57:22.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GPS_MEJOR joined the game
+[13Apr2025 20:57:22.646] [Server thread/INFO] [Jade/]: Syncing config to GPS_MEJOR (07c1bbbc-cdab-47af-8309-e3040d4ab6a5)
+[13Apr2025 20:57:23.151] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of GPS_MEJOR (18)
+[13Apr2025 20:57:23.151] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to GPS_MEJOR
+[13Apr2025 20:57:24.261] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KATZUO56 lost connection: Disconnected
+[13Apr2025 20:57:24.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KATZUO56 left the game
+[13Apr2025 20:57:24.262] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client KATZUO56
+[13Apr2025 20:57:28.283] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 07c1bbbc-cdab-47af-8309-e3040d4ab6a5
+[13Apr2025 20:57:29.286] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 07c1bbbc-cdab-47af-8309-e3040d4ab6a5
+[13Apr2025 20:57:29.287] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player GPS_MEJOR (07c1bbbc-cdab-47af-8309-e3040d4ab6a5) successfully connected to voice chat
+[13Apr2025 20:57:29.513] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player KATZUO56 is aad38ace-8d49-4cb4-a8ad-db93502be401
+[13Apr2025 20:57:32.223] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KATZUO56[/100.64.135.22:53023] logged in with entity id 2687 at (-36.90742303996044, 68.0, 42.285267622207805)
+[13Apr2025 20:57:32.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KATZUO56 joined the game
+[13Apr2025 20:57:32.286] [Server thread/INFO] [Jade/]: Syncing config to KATZUO56 (aad38ace-8d49-4cb4-a8ad-db93502be401)
+[13Apr2025 20:57:32.469] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of KATZUO56 (18)
+[13Apr2025 20:57:32.470] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to KATZUO56
+[13Apr2025 20:57:39.537] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player aad38ace-8d49-4cb4-a8ad-db93502be401
+[13Apr2025 20:57:40.541] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player aad38ace-8d49-4cb4-a8ad-db93502be401
+[13Apr2025 20:57:40.542] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player KATZUO56 (aad38ace-8d49-4cb4-a8ad-db93502be401) successfully connected to voice chat
+[13Apr2025 20:59:44.307] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[13Apr2025 20:59:44.308] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[13Apr2025 21:01:10.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GPS_MEJOR has made the advancement [Monster Hunter]
