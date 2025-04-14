@@ -7794,3 +7794,113 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:turntable'
 [13Apr2025 23:32:50.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KATZUO56 has made the advancement [Diamonds!]
 [13Apr2025 23:34:53.141] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Apr2025 23:34:53.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 23:39:53.147] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 23:39:53.156] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 23:44:53.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 23:44:53.158] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 23:47:41.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GPS_MEJOR has made the advancement [Clash of the Titans]
+[13Apr2025 23:47:45.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KATZUO56 was turned into gorgonzola by KATZUO56
+[13Apr2025 23:47:47.370] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Apr2025 23:47:47.371] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[13Apr2025 23:47:47.581] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1744588067567
+[13Apr2025 23:48:00.573] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Dobrica}[style={}] has been infected
+[13Apr2025 23:48:06.016] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Dobrica'/49776, l='ServerLevel[world]', x=-3034.67, y=79.00, z=67.59] died, message: 'Dobrica was slain by Zombie'
+[13Apr2025 23:48:06.017] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Dobrica'/49776, l='ServerLevel[world]', x=-3034.67, y=79.00, z=67.59] died: Dobrica was slain by Zombie
+[13Apr2025 23:49:53.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 23:49:53.158] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 23:51:20.514] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Adis'/30356, l='ServerLevel[world]', x=-3008.86, y=81.02, z=81.61] died, message: 'Adis was slain by Zombie'
+[13Apr2025 23:52:55.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KATZUO56) moved wrongly! 0.3885335532362433
+[13Apr2025 23:52:55.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KATZUO56) moved wrongly! 0.7774769903290917
+[13Apr2025 23:52:55.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KATZUO56) moved wrongly! 1.1668397223355669
+[13Apr2025 23:52:55.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KATZUO56) moved wrongly! 1.5566229809677452
+[13Apr2025 23:52:55.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KATZUO56) moved wrongly! 1.9468231697246665
+[13Apr2025 23:52:55.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KATZUO56) moved wrongly! 0.31133517724583726
+[13Apr2025 23:52:56.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KATZUO56) moved wrongly! 0.3677615066726503
+[13Apr2025 23:52:56.226] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KATZUO56) moved wrongly! 0.2692303624377246
+[13Apr2025 23:52:56.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KATZUO56) moved wrongly! 0.27673854246177143
+[13Apr2025 23:52:56.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KATZUO56) moved wrongly! 0.5723472514802097
+[13Apr2025 23:52:56.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KATZUO56) moved wrongly! 0.7274345213431843
+[13Apr2025 23:52:57.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KATZUO56) moved wrongly! 0.43817362218328526
+[13Apr2025 23:52:57.430] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KATZUO56) moved wrongly! 0.536024194548304
+[13Apr2025 23:52:57.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KATZUO56) moved wrongly! 0.7485658992231947
+[13Apr2025 23:52:57.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KATZUO56) moved wrongly! 0.9633159752370375
+[13Apr2025 23:54:53.154] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 23:54:53.164] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 23:55:05.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GPS_MEJOR has made the advancement [People Are Strange]
+[13Apr2025 23:55:39.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KATZUO56 has made the advancement [You Are A Pirate]
+[13Apr2025 23:55:57.146] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KATZUO56) moved wrongly! 0.423363683294383
+[13Apr2025 23:55:57.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KATZUO56) moved wrongly! 0.7555861348589588
+[13Apr2025 23:55:57.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KATZUO56) moved wrongly! 1.085454020140105
+[13Apr2025 23:59:53.147] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 23:59:53.157] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Apr2025 00:04:17.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GPS_MEJOR burned to death
+[14Apr2025 00:04:19.321] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[14Apr2025 00:04:19.322] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[14Apr2025 00:04:19.422] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1744589059415
+[14Apr2025 00:04:53.139] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Apr2025 00:04:53.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Apr2025 00:07:46.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KATZUO56 walked into fire whilst fighting Fire Dragon
+[14Apr2025 00:07:48.767] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[14Apr2025 00:07:48.768] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[14Apr2025 00:07:48.925] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1744589268917
+[14Apr2025 00:09:53.137] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Apr2025 00:09:53.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Apr2025 00:09:58.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KATZUO56 was turned into KFC by Fire Dragon
+[14Apr2025 00:10:02.256] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[14Apr2025 00:10:02.257] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[14Apr2025 00:10:02.439] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1744589402426
+[14Apr2025 00:14:53.152] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Apr2025 00:14:53.161] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Apr2025 00:18:24.714] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Jasmina}[style={}] has been infected
+[14Apr2025 00:18:43.163] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Jasmina'/72366, l='ServerLevel[world]', x=-3012.51, y=82.00, z=80.43] died, message: 'Jasmina hit the ground too hard whilst trying to escape Zombie'
+[14Apr2025 00:18:43.163] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Jasmina'/72366, l='ServerLevel[world]', x=-3012.51, y=82.00, z=80.43] died: Jasmina hit the ground too hard whilst trying to escape Zombie
+[14Apr2025 00:19:53.136] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Apr2025 00:19:53.145] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Apr2025 00:24:44.764] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GPS_MEJOR lost connection: Disconnected
+[14Apr2025 00:24:44.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GPS_MEJOR left the game
+[14Apr2025 00:24:44.765] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of GPS_MEJOR
+[14Apr2025 00:24:44.765] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client GPS_MEJOR
+[14Apr2025 00:24:44.768] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 07c1bbbc-cdab-47af-8309-e3040d4ab6a5 does not have a secret
+[14Apr2025 00:24:46.163] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KATZUO56 lost connection: Disconnected
+[14Apr2025 00:24:46.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KATZUO56 left the game
+[14Apr2025 00:24:46.163] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of KATZUO56
+[14Apr2025 00:24:46.163] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client KATZUO56
+[14Apr2025 00:24:46.189] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player aad38ace-8d49-4cb4-a8ad-db93502be401 does not have a secret
+[14Apr2025 00:24:46.191] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player aad38ace-8d49-4cb4-a8ad-db93502be401 does not have a secret
+[14Apr2025 00:24:46.221] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player aad38ace-8d49-4cb4-a8ad-db93502be401 does not have a secret
+[14Apr2025 00:24:46.222] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player aad38ace-8d49-4cb4-a8ad-db93502be401 does not have a secret
+[14Apr2025 00:24:46.232] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player aad38ace-8d49-4cb4-a8ad-db93502be401 does not have a secret
+[14Apr2025 00:24:46.424] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player aad38ace-8d49-4cb4-a8ad-db93502be401 does not have a secret
+[14Apr2025 00:24:53.112] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Apr2025 00:24:53.122] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Apr2025 00:24:55.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[14Apr2025 00:24:55.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[14Apr2025 00:24:55.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[14Apr2025 00:24:55.756] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer/]: Caught previously unhandled exception :
+java.io.IOError: java.io.IOException: Error executing 'stty -a': stty: 'standard input': Input/output error
+	at org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:54) ~[jline-terminal-3.12.1.jar%2362!/:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:650) ~[jline-reader-3.12.1.jar%2361!/:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:418) ~[jline-reader-3.12.1.jar%2361!/:?]
+	at net.minecraftforge.server.console.TerminalHandler.handleCommands(TerminalHandler.java:46) ~[forge-1.20.1-47.3.7-universal.jar%23212!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:84) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
+Caused by: java.io.IOException: Error executing 'stty -a': stty: 'standard input': Input/output error
+	at org.jline.utils.ExecHelper.exec(ExecHelper.java:42) ~[jline-terminal-3.12.1.jar%2362!/:?]
+	at org.jline.terminal.impl.ExecPty.doGetConfig(ExecPty.java:175) ~[jline-terminal-3.12.1.jar%2362!/:?]
+	at org.jline.terminal.impl.ExecPty.getAttr(ExecPty.java:87) ~[jline-terminal-3.12.1.jar%2362!/:?]
+	at org.jline.terminal.impl.ExecPty.doSetAttr(ExecPty.java:93) ~[jline-terminal-3.12.1.jar%2362!/:?]
+	at org.jline.terminal.impl.AbstractPty.setAttr(AbstractPty.java:29) ~[jline-terminal-3.12.1.jar%2362!/:?]
+	at org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:52) ~[jline-terminal-3.12.1.jar%2362!/:?]
+	... 4 more
+[14Apr2025 00:24:55.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14Apr2025 00:24:56.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[14Apr2025 00:24:56.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14Apr2025 00:24:56.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14Apr2025 00:24:56.360] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Apr2025 00:24:56.367] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Apr2025 00:24:56.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14Apr2025 00:24:56.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[14Apr2025 00:24:56.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14Apr2025 00:24:56.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14Apr2025 00:24:56.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14Apr2025 00:24:56.571] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[14Apr2025 00:24:56.573] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
